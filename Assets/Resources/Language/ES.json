@@ -1,0 +1,45 @@
+{
+  "Inicio": "Toca Para Iniciar",
+  "Distancia": "Distancia",
+  "Metros": "Metros",
+  "Comprar": "Comprar",
+  "SinFondos": "No pose lo suficiente",
+  "Usar": "Usar",
+  "EnUso": "Enuso",
+  "Sonido": "Sonido",
+  "Bananas": "Bananas",
+  "Menu": [
+    "Misiones diarias",
+    "Power Ups",
+    "Preparación",
+    "Ajustes"
+  ],
+  "ObjetivosDiarios": [
+    "Recorre: {0} Metros",
+    "Recoge: {0} Banans"
+  ],
+  "PowerUpsDecripcion": [
+    "MEJORA DOBLE SALTO\n<color=\"black\">TE PERMITE REALIZAR UN DOBLE SALTO </color>",
+    "MULTIPLICADOR X2\n<color=\"black\">MULTIPLICA TU PUNTUACIÓN MIENTRAS ESTE EN USO</color>",
+    "PLANEAR\n<color=\"black\">UNA OPCION DE SALTO QUE TE PERMITE PLANEAR SOBRE EL MAPA</color>",
+    "IMÁN\n<color=\"black\">ATRAE A LOS OBJETOS AUTOMATICAMENTE</color>",
+    "INMUNE\n<color=\"black\">te vuelves inmune por unos segundos </color>",
+    "DASH\n<color=\"black\">Te mueves rápidamente por un conto timepo</color> <color=\"blue\">\n(cooldown)</color>"
+  ],
+  "Idiomas": [
+    "Inglés",
+    "Español"
+  ],
+  "Videos": [
+    "Reproduce este video para continuar jugando",
+    "Reproduce este video para ganar {0} bananas"
+  ],
+  "Preparacion": [
+    "Personajes",
+    "Mapas"
+  ],
+  "Misiones": [
+    "Misiones diarias",
+    "Misiones"
+  ]
+}

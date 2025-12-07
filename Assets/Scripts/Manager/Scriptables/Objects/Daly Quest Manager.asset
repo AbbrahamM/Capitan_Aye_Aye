@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da38276dd34349c4e94e6d29449dba95, type: 3}
+  m_Name: Daly Quest Manager
+  m_EditorClassIdentifier: 
+  toDoWhenFound:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 8f05ae36cac0fc74782880f0ac7b0cac, type: 2}
+        m_TargetAssemblyTypeName: GMSaveDataUnlock, Assembly-CSharp
+        m_MethodName: AddUpQuest
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 716d8566b22b98d4c99307bd77fcd151, type: 2}
+        m_TargetAssemblyTypeName: GMLoadSave, Assembly-CSharp
+        m_MethodName: SaveData
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: CAPITAN.data
+          m_BoolArgument: 0
+        m_CallState: 2
+  questBananas:
+  - {fileID: 11400000, guid: 64002cf1a5e2c9044872391f6abfa583, type: 2}
+  - {fileID: 11400000, guid: f2aaef26fd9df304dab2b24b4a488639, type: 2}

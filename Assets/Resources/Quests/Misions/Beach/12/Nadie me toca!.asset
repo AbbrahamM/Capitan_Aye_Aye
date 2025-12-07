@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e5449f3d336ac4488c178543e52431, type: 3}
+  m_Name: Nadie me toca!
+  m_EditorClassIdentifier: 
+  pathToTest: Fondos/Fondo 2
+  GMQuestRules:
+  - {fileID: 11400000, guid: 0cfed7c1797f60c4a979059af8aa2893, type: 2}
+  - {fileID: 11400000, guid: 76cc1ba3dc864ab4da6ef589b76a7432, type: 2}
+  - {fileID: 11400000, guid: d7c643dad39eb7c499edc1f5197dbc15, type: 2}
+  toDoWhenQuestDone:
+    m_PersistentCalls:
+      m_Calls: []
+  toDoWhenQuestNotDone:
+    m_PersistentCalls:
+      m_Calls: []

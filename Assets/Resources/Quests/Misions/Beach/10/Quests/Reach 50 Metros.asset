@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5211d69e7bf12dc438a039d2177a4a19, type: 3}
+  m_Name: Reach 50 Metros
+  m_EditorClassIdentifier: 
+  type: 0
+  toReachNumner: 50
+  rewardToUnlock: 0
+  dynamicReward: Pasa los primeros 50 metros sin dejar ninguna banana.
+  reachNumber:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 0e616aa0d3ffa8b408bd7a47317ca798, type: 2}
+        m_TargetAssemblyTypeName: GMMultiQuestManager, Manager.System
+        m_MethodName: TestDone
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  reachNumberString:
+    m_PersistentCalls:
+      m_Calls: []
+  reachNumberVoid:
+    m_PersistentCalls:
+      m_Calls: []
+  alreadyDone: 0

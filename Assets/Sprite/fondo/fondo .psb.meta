@@ -1,0 +1,6492 @@
+fileFormatVersion: 2
+guid: af00bc58275e0ff4a885d3020acca10c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: e6c76c8d6f91ca74a9bdc5f26468c8c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Capa 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1998
+      y: 1267
+      width: 67
+      height: 23
+    spriteID: 05caf3d8c9343ba4da3829d2324d7b25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1998, y: 1267}
+    spritePosition: {x: 685, y: 63}
+  - name: Capa 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 2019
+      y: 702
+      width: 22
+      height: 20
+    spriteID: a10bcfcc9ee8a144794d9a40093e99d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2019, y: 702}
+    spritePosition: {x: 792, y: 182}
+  - name: Capa 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 844
+      y: 1303
+      width: 22
+      height: 20
+    spriteID: c8951c026479fff49847f1fd2946ea5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 844, y: 1303}
+    spritePosition: {x: 824, y: 182}
+  - name: player
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1895
+      y: 900
+      width: 79
+      height: 53
+    spriteID: 421d0f2ec5d74004a9c138bb0a8f1b23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1895, y: 900}
+    spritePosition: {x: 241, y: 65}
+  - name: Capa 4 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 364
+      width: 122
+      height: 23
+    spriteID: 39fd5bec8c5a1bf48a99c54b13307fae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 364}
+    spritePosition: {x: 1691, y: 123}
+  - name: Capa 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 612
+      width: 122
+      height: 23
+    spriteID: 5806a3a97e725c5409d8cb093e8727da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 612}
+    spritePosition: {x: 1470, y: 123}
+  - name: Capa 631 copia 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1672
+      y: 732
+      width: 215
+      height: 229
+    spriteID: 9bdfd151f6a0bf44eb63b01ed9082e72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1672, y: 732}
+    spritePosition: {x: 1583, y: 65}
+  - name: Capa 631 copia 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 994
+      width: 215
+      height: 229
+    spriteID: 0e785468ec4edba48be1f9183d2745c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 994}
+    spritePosition: {x: 1370, y: 64}
+  - name: Capa 639 copia 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 732
+      width: 270
+      height: 254
+    spriteID: 5e9f80158df4e8d449027d96e06a5e07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 732}
+    spritePosition: {x: 1626, y: 63}
+  - name: Capa 639 copia 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 732
+      width: 270
+      height: 254
+    spriteID: 133e32164b02f004faff0886877116d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 282, y: 732}
+    spritePosition: {x: 1420, y: 64}
+  - name: Capa 639 copia 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 560
+      y: 732
+      width: 270
+      height: 254
+    spriteID: 2034456e45820524dbc59d4bdc63476e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 560, y: 732}
+    spritePosition: {x: 1250, y: 64}
+  - name: Capa 4 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1895
+      y: 961
+      width: 122
+      height: 23
+    spriteID: e5493c7afc6f9794abe5c1a60c3d194f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1895, y: 961}
+    spritePosition: {x: 982, y: 123}
+  - name: Capa 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1588
+      y: 1267
+      width: 122
+      height: 23
+    spriteID: 7ba37dc819460bc4386df3316550a092
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1588, y: 1267}
+    spritePosition: {x: 761, y: 123}
+  - name: Capa 631 copia 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 227
+      y: 994
+      width: 215
+      height: 229
+    spriteID: 8469345b541267543b8279a47cd81cc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 227, y: 994}
+    spritePosition: {x: 874, y: 65}
+  - name: Capa 631 copia 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 994
+      width: 215
+      height: 229
+    spriteID: ec5959ecd330d764492aea45ca0b65bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 450, y: 994}
+    spritePosition: {x: 661, y: 64}
+  - name: Capa 639 copia 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 838
+      y: 732
+      width: 270
+      height: 254
+    spriteID: 8ebbbe511b4663f4e92f6de5889cf0b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 838, y: 732}
+    spritePosition: {x: 917, y: 63}
+  - name: Capa 639 copia 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1116
+      y: 732
+      width: 270
+      height: 254
+    spriteID: 72efeba92a1015a4986ffe078e39a6b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1116, y: 732}
+    spritePosition: {x: 711, y: 64}
+  - name: Capa 639 copia 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1394
+      y: 732
+      width: 270
+      height: 254
+    spriteID: b69b410ab9f8d144ca1c8e6fa7be2649
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1394, y: 732}
+    spritePosition: {x: 541, y: 64}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 247
+      width: 43
+      height: 17
+    spriteID: 1e1b2bddec0075d49ac1855b16db7882
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 247}
+    spritePosition: {x: 1385, y: 237}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 292
+      width: 43
+      height: 17
+    spriteID: 66346f15ddfc7144da6c4dce7ee65255
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 292}
+    spritePosition: {x: 1450, y: 179}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 317
+      width: 43
+      height: 17
+    spriteID: 31c925ce38041f148bec2a98aa29bc85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 317}
+    spritePosition: {x: 1640, y: 264}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 396
+      width: 43
+      height: 17
+    spriteID: f93ec464f0f79b24a8150c3c7680eb65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 396}
+    spritePosition: {x: 1543, y: 288}
+  - name: Capa 1 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1588
+      y: 1231
+      width: 128
+      height: 28
+    spriteID: 0edeb1c6b618c314e8f003cc5743d99d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1588, y: 1231}
+    spritePosition: {x: 1500, y: 293}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1996
+      y: 1231
+      width: 47
+      height: 19
+    spriteID: 54a6634c08bb60c468ca9ad1bc588c86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1996, y: 1231}
+    spritePosition: {x: 1709, y: 226}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1982
+      y: 900
+      width: 62
+      height: 24
+    spriteID: 82ab6a6057f54304ca4f9de343f7f305
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1982, y: 900}
+    spritePosition: {x: 1523, y: 219}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1718
+      y: 1267
+      width: 62
+      height: 24
+    spriteID: a2e56a50e338b4b45aad02bd3e37667e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1718, y: 1267}
+    spritePosition: {x: 1509, y: 302}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1788
+      y: 1267
+      width: 62
+      height: 24
+    spriteID: 4bca6a417a5c75943a36e86fbed4560b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1788, y: 1267}
+    spritePosition: {x: 1806, y: 264}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1858
+      y: 1267
+      width: 62
+      height: 24
+    spriteID: 0532722ef31e5ee45ae21858be2f3da4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1858, y: 1267}
+    spritePosition: {x: 1276, y: 215}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 660
+      width: 126
+      height: 34
+    spriteID: d55e15a7c0b97c947a1aee9de2852d40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 660}
+    spritePosition: {x: 1742, y: 241}
+  - name: Capa 651 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1928
+      y: 1267
+      width: 62
+      height: 24
+    spriteID: 6deea89f88a92cb40894180decf33513
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1928, y: 1267}
+    spritePosition: {x: 1335, y: 254}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 421
+      width: 43
+      height: 17
+    spriteID: 6a948fff00acb81408cccdc76af6b470
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 421}
+    spritePosition: {x: 849, y: 240}
+  - name: Capa 651 copia 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 468
+      width: 43
+      height: 17
+    spriteID: bd59fa10d1ec2f744bc08cc6b026990b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 468}
+    spritePosition: {x: 624, y: 218}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 493
+      width: 43
+      height: 17
+    spriteID: f84f3b7653eea114289ac447fb1595fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 493}
+    spritePosition: {x: 905, y: 207}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 540
+      width: 43
+      height: 17
+    spriteID: 01a7ba67a21f1c84a9681282285fcfef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 540}
+    spritePosition: {x: 1104, y: 267}
+  - name: Capa 651 copia 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 565
+      width: 43
+      height: 17
+    spriteID: 219def10f28868c41b417ab7b052d478
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 565}
+    spritePosition: {x: 679, y: 305}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 702
+      width: 43
+      height: 17
+    spriteID: 70a7c5ade6dd1c94c822cabb2e68502f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 702}
+    spritePosition: {x: 1007, y: 291}
+  - name: Capa 1 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1724
+      y: 1231
+      width: 128
+      height: 28
+    spriteID: 353924dcf1fc42b4d828fe9925b27e80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1724, y: 1231}
+    spritePosition: {x: 964, y: 296}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1982
+      y: 932
+      width: 47
+      height: 19
+    spriteID: 64a690394c9ebbd4bb62bc62823180a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1982, y: 932}
+    spritePosition: {x: 1173, y: 229}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: e50116c771a8ae348a86f2657b01bca9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1303}
+    spritePosition: {x: 987, y: 222}
+  - name: Capa 651 copia 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: 5257181106216c44a87fd520a7c84608
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 1303}
+    spritePosition: {x: 685, y: 234}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: a4979b8eafa03774090d75560a8ec976
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 1303}
+    spritePosition: {x: 973, y: 305}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: 2dfa4139bf516b142b4309f6c3d36705
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 1303}
+    spritePosition: {x: 1270, y: 267}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: 033ce213913b71d469568ff1340a8094
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 1303}
+    spritePosition: {x: 732, y: 243}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1895
+      y: 732
+      width: 126
+      height: 34
+    spriteID: 6a1b72cfa8565804da99c87d5e78593c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1895, y: 732}
+    spritePosition: {x: 1206, y: 244}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1895
+      y: 774
+      width: 126
+      height: 34
+    spriteID: d6791f79db682c84192752667e0177db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1895, y: 774}
+    spritePosition: {x: 749, y: 244}
+  - name: Capa 651 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: 49b296d2cc9a83d4ab79d0db6bbeae13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 1303}
+    spritePosition: {x: 799, y: 257}
+  - name: Capa 651 copia 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1968
+      y: 702
+      width: 43
+      height: 17
+    spriteID: 4d15738382ae4d44f8569bf36d6da4d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1968, y: 702}
+    spritePosition: {x: 127, y: 250}
+  - name: Capa 651 copia 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1672
+      y: 969
+      width: 43
+      height: 17
+    spriteID: 7963156f6565dd443a94936aa081ea62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1672, y: 969}
+    spritePosition: {x: 183, y: 227}
+  - name: Capa 651 copia 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1723
+      y: 969
+      width: 43
+      height: 17
+    spriteID: 2325733184c50a442a99e59afcac4778
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1723, y: 969}
+    spritePosition: {x: 382, y: 277}
+  - name: Capa 651 copia 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1774
+      y: 969
+      width: 43
+      height: 17
+    spriteID: 608eea7d59f009b4cacdbf499d76bde6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1774, y: 969}
+    spritePosition: {x: 285, y: 301}
+  - name: Capa 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1860
+      y: 1231
+      width: 128
+      height: 28
+    spriteID: 4b10c0887e457944d8f993d67d8c309d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1860, y: 1231}
+    spritePosition: {x: 242, y: 306}
+  - name: Capa 651 copia 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 220
+      width: 47
+      height: 19
+    spriteID: fc4cba5ddee07db4cb0737e4d2b95a6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 220}
+    spritePosition: {x: 451, y: 239}
+  - name: Capa 651 copia 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: 11bfa7b3d7929dc4b9d64d154a94dc25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 1303}
+    spritePosition: {x: 281, y: 241}
+  - name: Capa 651 copia 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: 669b5ac5270a7724f9d21158202233c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 1303}
+    spritePosition: {x: 251, y: 315}
+  - name: Capa 651 copia 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: f90820576172b9f4c99aa5c69d283663
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 564, y: 1303}
+    spritePosition: {x: 777, y: 270}
+  - name: Capa 651 copia 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 634
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: d674182c63b5deb4cba747a7c3a13b34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 634, y: 1303}
+    spritePosition: {x: 548, y: 277}
+  - name: Capa 651 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 704
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: d2505597d668c5b4eb11eed96d91b305
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 704, y: 1303}
+    spritePosition: {x: 10, y: 253}
+  - name: Capa 651 copia 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1895
+      y: 816
+      width: 126
+      height: 34
+    spriteID: 1e34492c0379d4a44b07c1ca1fd68cc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1895, y: 816}
+    spritePosition: {x: 484, y: 254}
+  - name: Capa 651 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1895
+      y: 858
+      width: 126
+      height: 34
+    spriteID: a0d5db014358e024bbbb5b4e4e701d31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1895, y: 858}
+    spritePosition: {x: 27, y: 254}
+  - name: Capa 651 copia 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 774
+      y: 1303
+      width: 62
+      height: 24
+    spriteID: 1f652ea571769b54ba9ea56a15c38934
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 774, y: 1303}
+    spritePosition: {x: 77, y: 267}
+  - name: agua
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 660
+      width: 1905
+      height: 64
+    spriteID: f8a0f3514ec64514e9c1b7fcfe2fa4a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 660}
+    spritePosition: {x: 0, y: 66}
+  - name: agua1.8 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 4
+      width: 49
+      height: 64
+    spriteID: f271807235fa6d945b693a7ae8dc1bb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 4}
+    spritePosition: {x: 1856, y: 65}
+  - name: agua1.7 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 396
+      width: 64
+      height: 64
+    spriteID: f9532285b7e7d514cb4f772080c535bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 396}
+    spritePosition: {x: 1792, y: 65}
+  - name: agua1.6 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 468
+      width: 64
+      height: 64
+    spriteID: a097a62b312ec714f893bce05f73b28d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 468}
+    spritePosition: {x: 1728, y: 65}
+  - name: agua1.5 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 540
+      width: 64
+      height: 64
+    spriteID: ffafe81c88385c6449796935512a0e59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 540}
+    spritePosition: {x: 1664, y: 65}
+  - name: agua1.4 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 4
+      width: 64
+      height: 64
+    spriteID: 9a413157a25475443a51aea7ca731ede
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 4}
+    spritePosition: {x: 1600, y: 65}
+  - name: agua1.3 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 76
+      width: 64
+      height: 64
+    spriteID: 1cac735df92ee874887eaa11ef9c7e8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 76}
+    spritePosition: {x: 1536, y: 65}
+  - name: agua1.2 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 148
+      width: 64
+      height: 64
+    spriteID: 697084b8eef5e08459f3a23a716a1d33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 148}
+    spritePosition: {x: 1472, y: 65}
+  - name: agua1.8 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 220
+      width: 64
+      height: 64
+    spriteID: 72b686f2978791e4caf674ae8cd3935e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 220}
+    spritePosition: {x: 960, y: 65}
+  - name: agua1.7 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1917
+      y: 292
+      width: 64
+      height: 64
+    spriteID: 1227e68c132976e4787093b934117e84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1917, y: 292}
+    spritePosition: {x: 1024, y: 65}
+  - name: agua1.6 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 0d1abddecda62a543b336b1c9b65eae9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 994}
+    spritePosition: {x: 1088, y: 65}
+  - name: agua1.5 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 745
+      y: 994
+      width: 64
+      height: 64
+    spriteID: f7d79afa8cfb96941aa1a9df72b63086
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 745, y: 994}
+    spritePosition: {x: 1152, y: 65}
+  - name: agua1.4 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 817
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 99ab8ca5a58e0b84e8202f8ee6108e7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 817, y: 994}
+    spritePosition: {x: 1216, y: 65}
+  - name: agua1.3 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 889
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 0338b6c2143d0494796465460618ad1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 889, y: 994}
+    spritePosition: {x: 1280, y: 65}
+  - name: agua1.2 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 961
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 7835ea2131dcfb642a8989a06a4276d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 961, y: 994}
+    spritePosition: {x: 1344, y: 65}
+  - name: agua1.11 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1033
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 31718ff2422655a45a08a1aee1be18cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1033, y: 994}
+    spritePosition: {x: 1408, y: 65}
+  - name: agua1.8 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1105
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 83c339af33852a140918b2c4a1966dfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1105, y: 994}
+    spritePosition: {x: 896, y: 65}
+  - name: agua1.7 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1177
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 8669326b12418474bad49e20ac309b2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1177, y: 994}
+    spritePosition: {x: 832, y: 65}
+  - name: agua1.6 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1249
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 2f07e18ea3cde934bb0916ddc20653ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1249, y: 994}
+    spritePosition: {x: 768, y: 65}
+  - name: agua1.5 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1321
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 63b2945b1b9dc854f80ef30a8849fff2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1321, y: 994}
+    spritePosition: {x: 704, y: 65}
+  - name: agua1.4 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1393
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 702a2b7e2902c4f42895f696f7ba42c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1393, y: 994}
+    spritePosition: {x: 640, y: 65}
+  - name: agua1.3 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1465
+      y: 994
+      width: 64
+      height: 64
+    spriteID: b8cacf3d1f6313042bbfc57cbacbbf67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1465, y: 994}
+    spritePosition: {x: 576, y: 65}
+  - name: agua1.2 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 6c995fbf1b912324f865c6f3550f2683
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1537, y: 994}
+    spritePosition: {x: 512, y: 65}
+  - name: agua1.8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1609
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 6b57bfd502731014396b6a41ead79b27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1609, y: 994}
+    spritePosition: {x: 0, y: 65}
+  - name: agua1.7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1681
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 7f939cab71a90d94b9060364f9ee4615
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1681, y: 994}
+    spritePosition: {x: 64, y: 65}
+  - name: agua1.6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1753
+      y: 994
+      width: 64
+      height: 64
+    spriteID: c88e8927150272646b99cf5778995cc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1753, y: 994}
+    spritePosition: {x: 128, y: 65}
+  - name: agua1.5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1825
+      y: 994
+      width: 64
+      height: 64
+    spriteID: 2aa1e2a4d5f8cb54980afd15a63a3fb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1825, y: 994}
+    spritePosition: {x: 192, y: 65}
+  - name: agua1.4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1897
+      y: 994
+      width: 64
+      height: 64
+    spriteID: ce3b6a03164123b4ca070a1dcdd627cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1897, y: 994}
+    spritePosition: {x: 256, y: 65}
+  - name: agua1.3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1969
+      y: 994
+      width: 64
+      height: 64
+    spriteID: f18de8b5895200843aed660b3e7cf167
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1969, y: 994}
+    spritePosition: {x: 320, y: 65}
+  - name: agua1.2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 3912c2cbbe1d278468317fb919fc905d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 1066}
+    spritePosition: {x: 384, y: 65}
+  - name: agua1.11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 745
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 8a8e482b25b708842afafe3b3b98f2c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 745, y: 1066}
+    spritePosition: {x: 448, y: 65}
+  - name: arena huella copia 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 817
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 3c1edf3e8601c524f937f99604286021
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 817, y: 1066}
+    spritePosition: {x: 1088, y: 0}
+  - name: arena huella copia 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 889
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 4060e23b5fe98ff4d8b1b375d7b3d9bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 889, y: 1066}
+    spritePosition: {x: 1216, y: 0}
+  - name: arena huella copia 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 961
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 0d7c74b18ea080e4abf55dc2ebcb6b62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 961, y: 1066}
+    spritePosition: {x: 1152, y: 0}
+  - name: arenaMad copia 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1033
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 53ddaa6c5ba610b41929acd8988f9bb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1033, y: 1066}
+    spritePosition: {x: 1344, y: 64}
+  - name: arenaRok copia 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1105
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 7cc22885a91f20a40b3bd940a2ce4e93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1105, y: 1066}
+    spritePosition: {x: 1088, y: 64}
+  - name: arenaRok1 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1177
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: d09c313c592569e4fa988158b15ca56c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1177, y: 1066}
+    spritePosition: {x: 1664, y: 64}
+  - name: arenaRok1 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1249
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: a2acbac63fff68941acdf09a52665e62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1249, y: 1066}
+    spritePosition: {x: 832, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1321
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 2752fbfa5d4dff44a9ba7698bda19a54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1321, y: 1066}
+    spritePosition: {x: 768, y: 0}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1393
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 75fed6b789869264180e4775b68c7fef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1393, y: 1066}
+    spritePosition: {x: 1024, y: 0}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1465
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: f00d725445fc81744b7c511a57b1fec0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1465, y: 1066}
+    spritePosition: {x: 896, y: 0}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 9c775a87771a8e34da315e0cd45147fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1537, y: 1066}
+    spritePosition: {x: 1280, y: 64}
+  - name: arena copia 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1609
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 44bce7b5b86c6124da84dfc60107b3f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1609, y: 1066}
+    spritePosition: {x: 1792, y: 0}
+  - name: arena copia 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 76
+      width: 49
+      height: 64
+    spriteID: fab59ff317334c449bcbc25bf5569925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 76}
+    spritePosition: {x: 1856, y: 0}
+  - name: arena copia 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1681
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 9a75ed37f3faf0d419c498a95fdeca3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1681, y: 1066}
+    spritePosition: {x: 1792, y: 64}
+  - name: arena copia 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 148
+      width: 49
+      height: 64
+    spriteID: a960743dda5c5424badf02e29fa0296e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1989, y: 148}
+    spritePosition: {x: 1856, y: 64}
+  - name: arena copia 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1753
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 02b82005d08ec344890d321c76169279
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1753, y: 1066}
+    spritePosition: {x: 1664, y: 0}
+  - name: arena copia 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1825
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: a8403feb240c78d45a027d879b73693b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1825, y: 1066}
+    spritePosition: {x: 1728, y: 0}
+  - name: arena copia 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1897
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: b7819d637d72a4644a7e4b46ac35f34a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1897, y: 1066}
+    spritePosition: {x: 1728, y: 64}
+  - name: arena copia 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1969
+      y: 1066
+      width: 64
+      height: 64
+    spriteID: 64cd65b3051743046adb39aa76adcd45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1969, y: 1066}
+    spritePosition: {x: 1536, y: 0}
+  - name: arena copia 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 5084c67116c7484448900b6d5bea01ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 1138}
+    spritePosition: {x: 1600, y: 0}
+  - name: arena copia 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 745
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 2888151d57bd00443b73eeacf686bb86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 745, y: 1138}
+    spritePosition: {x: 1536, y: 64}
+  - name: arena copia 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 817
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 1ae9a86196aa61f4186a215fd193dfd7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 817, y: 1138}
+    spritePosition: {x: 1600, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 889
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 0147307b6c6de034983224e8387d981f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 889, y: 1138}
+    spritePosition: {x: 1408, y: 0}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 961
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 502e70ac30b9d74429cfd49ca036ea7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 961, y: 1138}
+    spritePosition: {x: 1472, y: 0}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1033
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 6918d17ab40fefa40b2b04fbd2c0f271
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1033, y: 1138}
+    spritePosition: {x: 1280, y: 0}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1105
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 816574bd428aa6c4c932b0e772d7d796
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1105, y: 1138}
+    spritePosition: {x: 1344, y: 0}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1177
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: baae288663d3c4047b217d10da7f15af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1177, y: 1138}
+    spritePosition: {x: 1408, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1249
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 250908dc07cc16243a05b58c56dcd16f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1249, y: 1138}
+    spritePosition: {x: 1472, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1321
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 3e48d28eee4d1d24186ab4ed4ce25207
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1321, y: 1138}
+    spritePosition: {x: 1216, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1393
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 5fe689dcc3719f947ba58bf455cd12d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1393, y: 1138}
+    spritePosition: {x: 1152, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1465
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: e887d5fc6bb002747a8cb0c903497551
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1465, y: 1138}
+    spritePosition: {x: 960, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 9dea06c4a1065f441b9374a8be45156d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1537, y: 1138}
+    spritePosition: {x: 896, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1609
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 94bc773686f718943ac974f3d4753d7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1609, y: 1138}
+    spritePosition: {x: 1024, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1681
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 92846ca7720891c4793f760ab597bddb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1681, y: 1138}
+    spritePosition: {x: 960, y: 0}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1753
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 73d1a687a60ec7f43a10dd1dc30265d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1753, y: 1138}
+    spritePosition: {x: 768, y: 64}
+  - name: arena copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1825
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 8fb9cc8e93f48a84d96682f02ae10822
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1825, y: 1138}
+    spritePosition: {x: 832, y: 0}
+  - name: arena huella copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1897
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 13016f573aca2de4db6bfa0afac5000b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1897, y: 1138}
+    spritePosition: {x: 320, y: 0}
+  - name: arena huella copia 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1969
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: b61a3c5fa1186134da898a3d6e10a1a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1969, y: 1138}
+    spritePosition: {x: 448, y: 0}
+  - name: arena huella
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 469e7fd4cef8cbd439961c1d185d109f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1231}
+    spritePosition: {x: 384, y: 0}
+  - name: arenaMad copia 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 9955e3a3982ac2048b791d9745faeed1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 1231}
+    spritePosition: {x: 576, y: 64}
+  - name: arenaRok copia 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 7f7791e101ef86e44bb7c38cf720949d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 1231}
+    spritePosition: {x: 320, y: 64}
+  - name: arenaRok1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: c6481ae8c08f9f54a9dae01d787d0faf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 1231}
+    spritePosition: {x: 64, y: 64}
+  - name: arena copia 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 5e1d72ca2cc8805499bbcda8314951c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1231}
+    spritePosition: {x: 0, y: 0}
+  - name: arena copia 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 5b1f88a1906d5514caabca2874e04777
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 1231}
+    spritePosition: {x: 256, y: 0}
+  - name: arena copia 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 436
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: da577ca0776714342b689f41589a68f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 436, y: 1231}
+    spritePosition: {x: 128, y: 0}
+  - name: arena copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 758ca31a2f88e72429a75d68e1fbcdb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1231}
+    spritePosition: {x: 512, y: 64}
+  - name: arena copia 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 580
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: b4b7e491de0b7ae4a8d935e0e40bbe7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 580, y: 1231}
+    spritePosition: {x: 640, y: 0}
+  - name: arena copia 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 38684a92fc39d0c4f8fb981414f0dda5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 652, y: 1231}
+    spritePosition: {x: 704, y: 0}
+  - name: arena copia 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 724
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: db67682a91fab1c4fb06de2bbc8f7d5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 724, y: 1231}
+    spritePosition: {x: 512, y: 0}
+  - name: arena copia 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 542225dab15dd3849bc269c17191d908
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 1231}
+    spritePosition: {x: 576, y: 0}
+  - name: arena copia 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 868
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 7e3352db5a161664da47b8dfd625ed97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 868, y: 1231}
+    spritePosition: {x: 640, y: 64}
+  - name: arena copia 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 940
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 9f344a0c3eda89c4bbef7824a5fc9789
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 940, y: 1231}
+    spritePosition: {x: 704, y: 64}
+  - name: arena copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1012
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 59c338d255e54a846af63bd8876a6361
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1012, y: 1231}
+    spritePosition: {x: 448, y: 64}
+  - name: arena copia 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1084
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 0af70ff9d410dcf47900a6a297b3a5ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1084, y: 1231}
+    spritePosition: {x: 384, y: 64}
+  - name: arena copia 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1156
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: fd713af3e70c83046b78c486d593557c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1156, y: 1231}
+    spritePosition: {x: 192, y: 64}
+  - name: arena copia 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1228
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: f6c935f9269d14d4f81cf85bb6d2bee5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1228, y: 1231}
+    spritePosition: {x: 128, y: 64}
+  - name: arena copia 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1300
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 02c482d17da893a41ae1826f8cc41df5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1300, y: 1231}
+    spritePosition: {x: 256, y: 64}
+  - name: arena copia 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 45b5aaddcd44e3644bd6a9dd3be15033
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 1231}
+    spritePosition: {x: 192, y: 0}
+  - name: arena copia 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 029b1787486af834e8ebc8448b1d2524
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1444, y: 1231}
+    spritePosition: {x: 0, y: 64}
+  - name: arena copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1516
+      y: 1231
+      width: 64
+      height: 64
+    spriteID: 1e1fbf509750ac04b85af7687ed1e86e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1516, y: 1231}
+    spritePosition: {x: 64, y: 0}
+  - name: cielo4 copia 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 396
+      width: 1905
+      height: 256
+    spriteID: 1324d764d4462ec48b7cd3c00124c19e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 396}
+    spritePosition: {x: 0, y: 128}
+  - name: Capa 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1905
+      height: 384
+    spriteID: 282355fe663932240ab4cc934951902e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Windows Store Apps
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  generateTileAssets: 0
+  tilePaletteCellLayout: 0
+  tilePaletteHexagonLayout: 0
+  tilePaletteCellSize: {x: 1, y: 1, z: 0}
+  tilePaletteCellSizing: 0
+  transparencySortMode: 0
+  transparencySortAxis: {x: 0, y: 0, z: 1}
+  tileTemplate: {instanceID: 0}
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: All
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 845057ab4c2f00d4ab9071165f2776cc
+    layerID: 2099
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Grupo 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 05d5663e9a1428244afe199511b5f7d4
+    layerID: 1289
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Capa 15
+    spriteName: 
+    isGroup: 0
+    parentIndex: 1
+    spriteID: b290b6d886eff72449cb4edfdf48c445
+    layerID: 1288
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Capa 14
+    spriteName: 
+    isGroup: 0
+    parentIndex: 1
+    spriteID: be3580d13720dac4a85c488c7972e680
+    layerID: 1287
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Capa 13
+    spriteName: 
+    isGroup: 0
+    parentIndex: 1
+    spriteID: c89abcbdffb545c49a11209ac836643a
+    layerID: 1286
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Capa 12
+    spriteName: 
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 2f350185052c9be498b33fcf0166a2e1
+    layerID: 1285
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Capa 11
+    spriteName: 
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 2237462776776254482834060f8329ba
+    layerID: 1284
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Capa 10
+    spriteName: 
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 57bb553c3e72fe448982d915fb505e18
+    layerID: 1283
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Capa 9
+    spriteName: 
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 16ec5c0d7bbdb824d828ecdea88ea69b
+    layerID: 1282
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Capa 8
+    spriteName: Capa 8
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 7e2b5a2629b91674d966ec49f7543cde
+    layerID: 1281
+    mosaicPosition: {x: 2007, y: 1159}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Capa 7
+    spriteName: Capa 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 05caf3d8c9343ba4da3829d2324d7b25
+    layerID: 1279
+    mosaicPosition: {x: 1998, y: 1267}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 6
+    spriteName: Capa 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a10bcfcc9ee8a144794d9a40093e99d8
+    layerID: 1278
+    mosaicPosition: {x: 2019, y: 702}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 5
+    spriteName: Capa 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c8951c026479fff49847f1fd2946ea5f
+    layerID: 1277
+    mosaicPosition: {x: 844, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: player
+    spriteName: player
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 421d0f2ec5d74004a9c138bb0a8f1b23
+    layerID: 472
+    mosaicPosition: {x: 1895, y: 900}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: palmera2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: c606c7d82e5a8f7429684550e3cd146b
+    layerID: 524
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: troncos
+    spriteName: 
+    isGroup: 1
+    parentIndex: 14
+    spriteID: 183db80d1e5b82449add954698144c15
+    layerID: 523
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Capa 4 copia
+    spriteName: Capa 4 copia
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 39fd5bec8c5a1bf48a99c54b13307fae
+    layerID: 522
+    mosaicPosition: {x: 1917, y: 364}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 4
+    spriteName: Capa 4
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 5806a3a97e725c5409d8cb093e8727da
+    layerID: 521
+    mosaicPosition: {x: 1917, y: 612}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 631 copia 9
+    spriteName: Capa 631 copia 9
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 9bdfd151f6a0bf44eb63b01ed9082e72
+    layerID: 519
+    mosaicPosition: {x: 1672, y: 732}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 631 copia 8
+    spriteName: Capa 631 copia 8
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 0e785468ec4edba48be1f9183d2745c3
+    layerID: 518
+    mosaicPosition: {x: 4, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 639 copia 7
+    spriteName: Capa 639 copia 7
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 5e9f80158df4e8d449027d96e06a5e07
+    layerID: 517
+    mosaicPosition: {x: 4, y: 732}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 639 copia 6
+    spriteName: Capa 639 copia 6
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 133e32164b02f004faff0886877116d5
+    layerID: 516
+    mosaicPosition: {x: 282, y: 732}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 639 copia 5
+    spriteName: Capa 639 copia 5
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 2034456e45820524dbc59d4bdc63476e
+    layerID: 515
+    mosaicPosition: {x: 560, y: 732}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: palmera
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: dcf36722c399e6b408cffac5d7c0e790
+    layerID: 480
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: troncos
+    spriteName: 
+    isGroup: 1
+    parentIndex: 23
+    spriteID: 357a31f57b582b14eb851457e7e85136
+    layerID: 478
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Capa 4 copia
+    spriteName: Capa 4 copia
+    isGroup: 0
+    parentIndex: 24
+    spriteID: e5493c7afc6f9794abe5c1a60c3d194f
+    layerID: 477
+    mosaicPosition: {x: 1895, y: 961}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 4
+    spriteName: Capa 4
+    isGroup: 0
+    parentIndex: 24
+    spriteID: 7ba37dc819460bc4386df3316550a092
+    layerID: 475
+    mosaicPosition: {x: 1588, y: 1267}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 631 copia 9
+    spriteName: Capa 631 copia 9
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 8469345b541267543b8279a47cd81cc8
+    layerID: 476
+    mosaicPosition: {x: 227, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 631 copia 8
+    spriteName: Capa 631 copia 8
+    isGroup: 0
+    parentIndex: 23
+    spriteID: ec5959ecd330d764492aea45ca0b65bc
+    layerID: 261
+    mosaicPosition: {x: 450, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 639 copia 7
+    spriteName: Capa 639 copia 7
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 8ebbbe511b4663f4e92f6de5889cf0b7
+    layerID: 483
+    mosaicPosition: {x: 838, y: 732}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 639 copia 6
+    spriteName: Capa 639 copia 6
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 72efeba92a1015a4986ffe078e39a6b0
+    layerID: 482
+    mosaicPosition: {x: 1116, y: 732}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 639 copia 5
+    spriteName: Capa 639 copia 5
+    isGroup: 0
+    parentIndex: 23
+    spriteID: b69b410ab9f8d144ca1c8e6fa7be2649
+    layerID: 255
+    mosaicPosition: {x: 1394, y: 732}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'nuve '
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 03a8fb9e59884d54783e7b647671907d
+    layerID: 60
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 1e1b2bddec0075d49ac1855b16db7882
+    layerID: 557
+    mosaicPosition: {x: 1989, y: 247}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 66346f15ddfc7144da6c4dce7ee65255
+    layerID: 556
+    mosaicPosition: {x: 1989, y: 292}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 31c925ce38041f148bec2a98aa29bc85
+    layerID: 555
+    mosaicPosition: {x: 1989, y: 317}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: f93ec464f0f79b24a8150c3c7680eb65
+    layerID: 554
+    mosaicPosition: {x: 1989, y: 396}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 1 copia 2
+    spriteName: Capa 1 copia 2
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 0edeb1c6b618c314e8f003cc5743d99d
+    layerID: 553
+    mosaicPosition: {x: 1588, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 54a6634c08bb60c468ca9ad1bc588c86
+    layerID: 552
+    mosaicPosition: {x: 1996, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 82ab6a6057f54304ca4f9de343f7f305
+    layerID: 551
+    mosaicPosition: {x: 1982, y: 900}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: a2e56a50e338b4b45aad02bd3e37667e
+    layerID: 550
+    mosaicPosition: {x: 1718, y: 1267}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 4bca6a417a5c75943a36e86fbed4560b
+    layerID: 549
+    mosaicPosition: {x: 1788, y: 1267}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 0532722ef31e5ee45ae21858be2f3da4
+    layerID: 548
+    mosaicPosition: {x: 1858, y: 1267}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: d55e15a7c0b97c947a1aee9de2852d40
+    layerID: 547
+    mosaicPosition: {x: 1917, y: 660}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 14
+    spriteName: Capa 651 copia 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 6deea89f88a92cb40894180decf33513
+    layerID: 545
+    mosaicPosition: {x: 1928, y: 1267}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 6a948fff00acb81408cccdc76af6b470
+    layerID: 544
+    mosaicPosition: {x: 1989, y: 421}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 18
+    spriteName: Capa 651 copia 18
+    isGroup: 0
+    parentIndex: 32
+    spriteID: bd59fa10d1ec2f744bc08cc6b026990b
+    layerID: 561
+    mosaicPosition: {x: 1989, y: 468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: f84f3b7653eea114289ac447fb1595fe
+    layerID: 543
+    mosaicPosition: {x: 1989, y: 493}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 01a7ba67a21f1c84a9681282285fcfef
+    layerID: 542
+    mosaicPosition: {x: 1989, y: 540}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 16
+    spriteName: Capa 651 copia 16
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 219def10f28868c41b417ab7b052d478
+    layerID: 559
+    mosaicPosition: {x: 1989, y: 565}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 70a7c5ade6dd1c94c822cabb2e68502f
+    layerID: 541
+    mosaicPosition: {x: 1917, y: 702}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 1 copia
+    spriteName: Capa 1 copia
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 353924dcf1fc42b4d828fe9925b27e80
+    layerID: 540
+    mosaicPosition: {x: 1724, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 64a690394c9ebbd4bb62bc62823180a4
+    layerID: 539
+    mosaicPosition: {x: 1982, y: 932}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: e50116c771a8ae348a86f2657b01bca9
+    layerID: 538
+    mosaicPosition: {x: 4, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 15
+    spriteName: Capa 651 copia 15
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 5257181106216c44a87fd520a7c84608
+    layerID: 558
+    mosaicPosition: {x: 74, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: a4979b8eafa03774090d75560a8ec976
+    layerID: 537
+    mosaicPosition: {x: 144, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 2dfa4139bf516b142b4309f6c3d36705
+    layerID: 536
+    mosaicPosition: {x: 214, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 033ce213913b71d469568ff1340a8094
+    layerID: 535
+    mosaicPosition: {x: 284, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 6a1b72cfa8565804da99c87d5e78593c
+    layerID: 534
+    mosaicPosition: {x: 1895, y: 732}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: d6791f79db682c84192752667e0177db
+    layerID: 533
+    mosaicPosition: {x: 1895, y: 774}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 13
+    spriteName: Capa 651 copia 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 49b296d2cc9a83d4ab79d0db6bbeae13
+    layerID: 532
+    mosaicPosition: {x: 354, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 11
+    spriteName: Capa 651 copia 11
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 4d15738382ae4d44f8569bf36d6da4d8
+    layerID: 528
+    mosaicPosition: {x: 1968, y: 702}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 7
+    spriteName: Capa 651 copia 7
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 7963156f6565dd443a94936aa081ea62
+    layerID: 529
+    mosaicPosition: {x: 1672, y: 969}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 8
+    spriteName: Capa 651 copia 8
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 2325733184c50a442a99e59afcac4778
+    layerID: 530
+    mosaicPosition: {x: 1723, y: 969}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 4
+    spriteName: Capa 651 copia 4
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 608eea7d59f009b4cacdbf499d76bde6
+    layerID: 54
+    mosaicPosition: {x: 1774, y: 969}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 1
+    spriteName: Capa 1
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 4b10c0887e457944d8f993d67d8c309d
+    layerID: 57
+    mosaicPosition: {x: 1860, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 3
+    spriteName: Capa 651 copia 3
+    isGroup: 0
+    parentIndex: 32
+    spriteID: fc4cba5ddee07db4cb0737e4d2b95a6f
+    layerID: 56
+    mosaicPosition: {x: 1989, y: 220}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 12
+    spriteName: Capa 651 copia 12
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 11bfa7b3d7929dc4b9d64d154a94dc25
+    layerID: 531
+    mosaicPosition: {x: 424, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 9
+    spriteName: Capa 651 copia 9
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 669b5ac5270a7724f9d21158202233c2
+    layerID: 526
+    mosaicPosition: {x: 494, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 17
+    spriteName: Capa 651 copia 17
+    isGroup: 0
+    parentIndex: 32
+    spriteID: f90820576172b9f4c99aa5c69d283663
+    layerID: 560
+    mosaicPosition: {x: 564, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 6
+    spriteName: Capa 651 copia 6
+    isGroup: 0
+    parentIndex: 32
+    spriteID: d674182c63b5deb4cba747a7c3a13b34
+    layerID: 248
+    mosaicPosition: {x: 634, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 2
+    spriteName: Capa 651 copia 2
+    isGroup: 0
+    parentIndex: 32
+    spriteID: d2505597d668c5b4eb11eed96d91b305
+    layerID: 55
+    mosaicPosition: {x: 704, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 5
+    spriteName: Capa 651 copia 5
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 1e34492c0379d4a44b07c1ca1fd68cc8
+    layerID: 245
+    mosaicPosition: {x: 1895, y: 816}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia
+    spriteName: Capa 651 copia
+    isGroup: 0
+    parentIndex: 32
+    spriteID: a0d5db014358e024bbbb5b4e4e701d31
+    layerID: 19
+    mosaicPosition: {x: 1895, y: 858}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 651 copia 10
+    spriteName: Capa 651 copia 10
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 1f652ea571769b54ba9ea56a15c38934
+    layerID: 527
+    mosaicPosition: {x: 774, y: 1303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua
+    spriteName: agua
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f8a0f3514ec64514e9c1b7fcfe2fa4a0
+    layerID: 742
+    mosaicPosition: {x: 4, y: 660}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 2fa2961ac8a4f7245b55ce941ccc357a
+    layerID: 1246
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: agua1.8 copia 2
+    spriteName: agua1.8 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: f271807235fa6d945b693a7ae8dc1bb2
+    layerID: 1276
+    mosaicPosition: {x: 1989, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.7 copia 2
+    spriteName: agua1.7 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: f9532285b7e7d514cb4f772080c535bf
+    layerID: 1275
+    mosaicPosition: {x: 1917, y: 396}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.6 copia 2
+    spriteName: agua1.6 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: a097a62b312ec714f893bce05f73b28d
+    layerID: 1274
+    mosaicPosition: {x: 1917, y: 468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.5 copia 2
+    spriteName: agua1.5 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: ffafe81c88385c6449796935512a0e59
+    layerID: 1273
+    mosaicPosition: {x: 1917, y: 540}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.4 copia 2
+    spriteName: agua1.4 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 9a413157a25475443a51aea7ca731ede
+    layerID: 1272
+    mosaicPosition: {x: 1917, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.3 copia 2
+    spriteName: agua1.3 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 1cac735df92ee874887eaa11ef9c7e8e
+    layerID: 1271
+    mosaicPosition: {x: 1917, y: 76}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.2 copia 2
+    spriteName: agua1.2 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 697084b8eef5e08459f3a23a716a1d33
+    layerID: 1270
+    mosaicPosition: {x: 1917, y: 148}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.8 copia 2
+    spriteName: agua1.8 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 72b686f2978791e4caf674ae8cd3935e
+    layerID: 1269
+    mosaicPosition: {x: 1917, y: 220}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.7 copia 2
+    spriteName: agua1.7 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 1227e68c132976e4787093b934117e84
+    layerID: 1268
+    mosaicPosition: {x: 1917, y: 292}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.6 copia 2
+    spriteName: agua1.6 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 0d1abddecda62a543b336b1c9b65eae9
+    layerID: 1267
+    mosaicPosition: {x: 673, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.5 copia 2
+    spriteName: agua1.5 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: f7d79afa8cfb96941aa1a9df72b63086
+    layerID: 1266
+    mosaicPosition: {x: 745, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.4 copia 2
+    spriteName: agua1.4 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 99ab8ca5a58e0b84e8202f8ee6108e7e
+    layerID: 1265
+    mosaicPosition: {x: 817, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.3 copia 2
+    spriteName: agua1.3 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 0338b6c2143d0494796465460618ad1c
+    layerID: 1264
+    mosaicPosition: {x: 889, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.2 copia 2
+    spriteName: agua1.2 copia 2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 7835ea2131dcfb642a8989a06a4276d7
+    layerID: 1263
+    mosaicPosition: {x: 961, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.11 copia
+    spriteName: agua1.11 copia
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 31718ff2422655a45a08a1aee1be18cd
+    layerID: 1262
+    mosaicPosition: {x: 1033, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.8 copia
+    spriteName: agua1.8 copia
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 83c339af33852a140918b2c4a1966dfb
+    layerID: 1261
+    mosaicPosition: {x: 1105, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.7 copia
+    spriteName: agua1.7 copia
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 8669326b12418474bad49e20ac309b2b
+    layerID: 1260
+    mosaicPosition: {x: 1177, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.6 copia
+    spriteName: agua1.6 copia
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 2f07e18ea3cde934bb0916ddc20653ba
+    layerID: 1259
+    mosaicPosition: {x: 1249, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.5 copia
+    spriteName: agua1.5 copia
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 63b2945b1b9dc854f80ef30a8849fff2
+    layerID: 1258
+    mosaicPosition: {x: 1321, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.4 copia
+    spriteName: agua1.4 copia
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 702a2b7e2902c4f42895f696f7ba42c7
+    layerID: 1257
+    mosaicPosition: {x: 1393, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.3 copia
+    spriteName: agua1.3 copia
+    isGroup: 0
+    parentIndex: 76
+    spriteID: b8cacf3d1f6313042bbfc57cbacbbf67
+    layerID: 1256
+    mosaicPosition: {x: 1465, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.2 copia
+    spriteName: agua1.2 copia
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 6c995fbf1b912324f865c6f3550f2683
+    layerID: 1255
+    mosaicPosition: {x: 1537, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.8
+    spriteName: agua1.8
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 6b57bfd502731014396b6a41ead79b27
+    layerID: 1245
+    mosaicPosition: {x: 1609, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.7
+    spriteName: agua1.7
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 7f939cab71a90d94b9060364f9ee4615
+    layerID: 1244
+    mosaicPosition: {x: 1681, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.6
+    spriteName: agua1.6
+    isGroup: 0
+    parentIndex: 76
+    spriteID: c88e8927150272646b99cf5778995cc5
+    layerID: 1243
+    mosaicPosition: {x: 1753, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.5
+    spriteName: agua1.5
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 2aa1e2a4d5f8cb54980afd15a63a3fb2
+    layerID: 1242
+    mosaicPosition: {x: 1825, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.4
+    spriteName: agua1.4
+    isGroup: 0
+    parentIndex: 76
+    spriteID: ce3b6a03164123b4ca070a1dcdd627cf
+    layerID: 1241
+    mosaicPosition: {x: 1897, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.3
+    spriteName: agua1.3
+    isGroup: 0
+    parentIndex: 76
+    spriteID: f18de8b5895200843aed660b3e7cf167
+    layerID: 1240
+    mosaicPosition: {x: 1969, y: 994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.2
+    spriteName: agua1.2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 3912c2cbbe1d278468317fb919fc905d
+    layerID: 1239
+    mosaicPosition: {x: 673, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: agua1.11
+    spriteName: agua1.11
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 8a8e482b25b708842afafe3b3b98f2c5
+    layerID: 1238
+    mosaicPosition: {x: 745, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena modulos
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 7d58275481a5f7f4ab2ef35d71627958
+    layerID: 58
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: arena huella copia 4
+    spriteName: arena huella copia 4
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 3c1edf3e8601c524f937f99604286021
+    layerID: 106
+    mosaicPosition: {x: 817, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena huella copia 4
+    spriteName: arena huella copia 4
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 4060e23b5fe98ff4d8b1b375d7b3d9bb
+    layerID: 105
+    mosaicPosition: {x: 889, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena huella copia 4
+    spriteName: arena huella copia 4
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 0d7c74b18ea080e4abf55dc2ebcb6b62
+    layerID: 104
+    mosaicPosition: {x: 961, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arenaMad copia 6
+    spriteName: arenaMad copia 6
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 53ddaa6c5ba610b41929acd8988f9bb2
+    layerID: 103
+    mosaicPosition: {x: 1033, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arenaRok copia 12
+    spriteName: arenaRok copia 12
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 7cc22885a91f20a40b3bd940a2ce4e93
+    layerID: 102
+    mosaicPosition: {x: 1105, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arenaRok1 copia 2
+    spriteName: arenaRok1 copia 2
+    isGroup: 0
+    parentIndex: 107
+    spriteID: d09c313c592569e4fa988158b15ca56c
+    layerID: 119
+    mosaicPosition: {x: 1177, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arenaRok1 copia
+    spriteName: arenaRok1 copia
+    isGroup: 0
+    parentIndex: 107
+    spriteID: a2acbac63fff68941acdf09a52665e62
+    layerID: 101
+    mosaicPosition: {x: 1249, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 2752fbfa5d4dff44a9ba7698bda19a54
+    layerID: 100
+    mosaicPosition: {x: 1321, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 75fed6b789869264180e4775b68c7fef
+    layerID: 99
+    mosaicPosition: {x: 1393, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: f00d725445fc81744b7c511a57b1fec0
+    layerID: 98
+    mosaicPosition: {x: 1465, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 9c775a87771a8e34da315e0cd45147fd
+    layerID: 97
+    mosaicPosition: {x: 1537, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 22
+    spriteName: arena copia 22
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 44bce7b5b86c6124da84dfc60107b3f0
+    layerID: 118
+    mosaicPosition: {x: 1609, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 22
+    spriteName: arena copia 22
+    isGroup: 0
+    parentIndex: 107
+    spriteID: fab59ff317334c449bcbc25bf5569925
+    layerID: 117
+    mosaicPosition: {x: 1989, y: 76}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 22
+    spriteName: arena copia 22
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 9a75ed37f3faf0d419c498a95fdeca3a
+    layerID: 116
+    mosaicPosition: {x: 1681, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 22
+    spriteName: arena copia 22
+    isGroup: 0
+    parentIndex: 107
+    spriteID: a960743dda5c5424badf02e29fa0296e
+    layerID: 115
+    mosaicPosition: {x: 1989, y: 148}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 22
+    spriteName: arena copia 22
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 02b82005d08ec344890d321c76169279
+    layerID: 114
+    mosaicPosition: {x: 1753, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 22
+    spriteName: arena copia 22
+    isGroup: 0
+    parentIndex: 107
+    spriteID: a8403feb240c78d45a027d879b73693b
+    layerID: 113
+    mosaicPosition: {x: 1825, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 22
+    spriteName: arena copia 22
+    isGroup: 0
+    parentIndex: 107
+    spriteID: b7819d637d72a4644a7e4b46ac35f34a
+    layerID: 111
+    mosaicPosition: {x: 1897, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 21
+    spriteName: arena copia 21
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 64cd65b3051743046adb39aa76adcd45
+    layerID: 110
+    mosaicPosition: {x: 1969, y: 1066}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 21
+    spriteName: arena copia 21
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 5084c67116c7484448900b6d5bea01ec
+    layerID: 109
+    mosaicPosition: {x: 673, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 21
+    spriteName: arena copia 21
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 2888151d57bd00443b73eeacf686bb86
+    layerID: 108
+    mosaicPosition: {x: 745, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 21
+    spriteName: arena copia 21
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 1ae9a86196aa61f4186a215fd193dfd7
+    layerID: 107
+    mosaicPosition: {x: 817, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 0147307b6c6de034983224e8387d981f
+    layerID: 96
+    mosaicPosition: {x: 889, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 502e70ac30b9d74429cfd49ca036ea7d
+    layerID: 95
+    mosaicPosition: {x: 961, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 6918d17ab40fefa40b2b04fbd2c0f271
+    layerID: 94
+    mosaicPosition: {x: 1033, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 816574bd428aa6c4c932b0e772d7d796
+    layerID: 93
+    mosaicPosition: {x: 1105, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: baae288663d3c4047b217d10da7f15af
+    layerID: 92
+    mosaicPosition: {x: 1177, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 250908dc07cc16243a05b58c56dcd16f
+    layerID: 91
+    mosaicPosition: {x: 1249, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 3e48d28eee4d1d24186ab4ed4ce25207
+    layerID: 90
+    mosaicPosition: {x: 1321, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 5fe689dcc3719f947ba58bf455cd12d0
+    layerID: 89
+    mosaicPosition: {x: 1393, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: e887d5fc6bb002747a8cb0c903497551
+    layerID: 88
+    mosaicPosition: {x: 1465, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 9dea06c4a1065f441b9374a8be45156d
+    layerID: 87
+    mosaicPosition: {x: 1537, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 94bc773686f718943ac974f3d4753d7b
+    layerID: 86
+    mosaicPosition: {x: 1609, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 92846ca7720891c4793f760ab597bddb
+    layerID: 85
+    mosaicPosition: {x: 1681, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 73d1a687a60ec7f43a10dd1dc30265d9
+    layerID: 84
+    mosaicPosition: {x: 1753, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 20
+    spriteName: arena copia 20
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 8fb9cc8e93f48a84d96682f02ae10822
+    layerID: 83
+    mosaicPosition: {x: 1825, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena huella copia 2
+    spriteName: arena huella copia 2
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 13016f573aca2de4db6bfa0afac5000b
+    layerID: 64
+    mosaicPosition: {x: 1897, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena huella copia 3
+    spriteName: arena huella copia 3
+    isGroup: 0
+    parentIndex: 107
+    spriteID: b61a3c5fa1186134da898a3d6e10a1a1
+    layerID: 76
+    mosaicPosition: {x: 1969, y: 1138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena huella
+    spriteName: arena huella
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 469e7fd4cef8cbd439961c1d185d109f
+    layerID: 50
+    mosaicPosition: {x: 4, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arenaMad copia 5
+    spriteName: arenaMad copia 5
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 9955e3a3982ac2048b791d9745faeed1
+    layerID: 70
+    mosaicPosition: {x: 76, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arenaRok copia 11
+    spriteName: arenaRok copia 11
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 7f7791e101ef86e44bb7c38cf720949d
+    layerID: 68
+    mosaicPosition: {x: 148, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arenaRok1
+    spriteName: arenaRok1
+    isGroup: 0
+    parentIndex: 107
+    spriteID: c6481ae8c08f9f54a9dae01d787d0faf
+    layerID: 48
+    mosaicPosition: {x: 220, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 5
+    spriteName: arena copia 5
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 5e1d72ca2cc8805499bbcda8314951c3
+    layerID: 47
+    mosaicPosition: {x: 292, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 6
+    spriteName: arena copia 6
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 5b1f88a1906d5514caabca2874e04777
+    layerID: 63
+    mosaicPosition: {x: 364, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 7
+    spriteName: arena copia 7
+    isGroup: 0
+    parentIndex: 107
+    spriteID: da577ca0776714342b689f41589a68f3
+    layerID: 65
+    mosaicPosition: {x: 436, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 14
+    spriteName: arena copia 14
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 758ca31a2f88e72429a75d68e1fbcdb5
+    layerID: 75
+    mosaicPosition: {x: 508, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 19
+    spriteName: arena copia 19
+    isGroup: 0
+    parentIndex: 107
+    spriteID: b4b7e491de0b7ae4a8d935e0e40bbe7a
+    layerID: 82
+    mosaicPosition: {x: 580, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 19
+    spriteName: arena copia 19
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 38684a92fc39d0c4f8fb981414f0dda5
+    layerID: 81
+    mosaicPosition: {x: 652, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 15
+    spriteName: arena copia 15
+    isGroup: 0
+    parentIndex: 107
+    spriteID: db67682a91fab1c4fb06de2bbc8f7d5c
+    layerID: 77
+    mosaicPosition: {x: 724, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 16
+    spriteName: arena copia 16
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 542225dab15dd3849bc269c17191d908
+    layerID: 78
+    mosaicPosition: {x: 796, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 17
+    spriteName: arena copia 17
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 7e3352db5a161664da47b8dfd625ed97
+    layerID: 79
+    mosaicPosition: {x: 868, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 18
+    spriteName: arena copia 18
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 9f344a0c3eda89c4bbef7824a5fc9789
+    layerID: 80
+    mosaicPosition: {x: 940, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 13
+    spriteName: arena copia 13
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 59c338d255e54a846af63bd8876a6361
+    layerID: 74
+    mosaicPosition: {x: 1012, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 11
+    spriteName: arena copia 11
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 0af70ff9d410dcf47900a6a297b3a5ad
+    layerID: 71
+    mosaicPosition: {x: 1084, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 8
+    spriteName: arena copia 8
+    isGroup: 0
+    parentIndex: 107
+    spriteID: fd713af3e70c83046b78c486d593557c
+    layerID: 66
+    mosaicPosition: {x: 1156, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 10
+    spriteName: arena copia 10
+    isGroup: 0
+    parentIndex: 107
+    spriteID: f6c935f9269d14d4f81cf85bb6d2bee5
+    layerID: 69
+    mosaicPosition: {x: 1228, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 9
+    spriteName: arena copia 9
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 02c482d17da893a41ae1826f8cc41df5
+    layerID: 67
+    mosaicPosition: {x: 1300, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 3
+    spriteName: arena copia 3
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 45b5aaddcd44e3644bd6a9dd3be15033
+    layerID: 62
+    mosaicPosition: {x: 1372, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia 12
+    spriteName: arena copia 12
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 029b1787486af834e8ebc8448b1d2524
+    layerID: 73
+    mosaicPosition: {x: 1444, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: arena copia
+    spriteName: arena copia
+    isGroup: 0
+    parentIndex: 107
+    spriteID: 1e1fbf509750ac04b85af7687ed1e86e
+    layerID: 46
+    mosaicPosition: {x: 1516, y: 1231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cielo modulos
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 5a67f83b047f5b6448fc0df83a5f497c
+    layerID: 44
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 9cbaf48747e50c842b69719a9da5dc70
+    layerID: 244
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 6e9c52d450bee32408f2d7d1bf146647
+    layerID: 243
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 136e3a1c191d45c45b9a83a61abffad8
+    layerID: 242
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 06b996cf9baec284db84414e1a48beb1
+    layerID: 241
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 569908eaa949f96429bf7fdac374b133
+    layerID: 240
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 9df96629616f2e54382dfea22257c24c
+    layerID: 239
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: d9337bbb83a99f6419fe02f0916bb1e0
+    layerID: 238
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 719c4b8a26ab83940acd252531fa8cf4
+    layerID: 237
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 5788978a5436a8d44a2b0c815464a941
+    layerID: 236
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 652173c3633b4cd4c84d30a43a46ffda
+    layerID: 235
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: fc0dccc96596f6944b929f99be2b0322
+    layerID: 234
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: c80fbab7369479b4888ca5c79c5090bc
+    layerID: 233
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 72b297034b8a5d844b116b13d297959f
+    layerID: 232
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 072c1548248fe9948b786e31006890d0
+    layerID: 231
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 6fe0664c813a1ed4791b8096acf8338c
+    layerID: 230
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 26ac1c2e9571b1b438247c1464aa00a5
+    layerID: 229
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: fa00028f41fafbe4cbb5ed21a85e3d33
+    layerID: 228
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 7b98a1dfdf3d14045a2d5dce446b1b00
+    layerID: 227
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: b74544dfd6282734fa24ff3803239c98
+    layerID: 226
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 7a4ad95f5f4c47b488258bf30adbd0c3
+    layerID: 225
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: e642a4c39022bab429423a14e02bd647
+    layerID: 224
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 548362e2aa7d5f14fbaacc019235d66e
+    layerID: 223
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: b58e0bd22ab76ec4cb89896ddd9bc9dc
+    layerID: 222
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 3a987cfd923147748ad1b66bca53dc04
+    layerID: 221
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 738642714a247454daafa1541e73b02b
+    layerID: 220
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: eab2b9d93d9f8284b9618ce4e5dcebf7
+    layerID: 219
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 29394b0f4a946b94eac33e3442ac42c9
+    layerID: 218
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 9c87365401b7df447b717b0c42dcb36c
+    layerID: 217
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 66d08f4ff494baa4db2e24e979d22cd5
+    layerID: 216
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: d0a36485d89c8b047bad05e46f72da16
+    layerID: 215
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: b55bbf8c87911fb4eb3e09fcf57ffb29
+    layerID: 214
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 46e82256378676e439c6e67d0bd6e589
+    layerID: 213
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 35fab22e62804de4f819e2d22c431aef
+    layerID: 212
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 2289d9e97aa4e56438435ab14bdbbf79
+    layerID: 211
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 6a7bc91d1d5e0564f830314bb3051867
+    layerID: 210
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 8e18f12876b10d74296f52cbbc623fe5
+    layerID: 209
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 9aeebc8b0d7fdb145a1481bb7a5a4407
+    layerID: 208
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 8e503caf8d0a046428872663297de93a
+    layerID: 207
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 47017a0112792d646a1d66a6751ce2cd
+    layerID: 206
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 2981195016504b84db14829b78b94012
+    layerID: 205
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: f3eaa574c35dbc1419751de7ce0b905f
+    layerID: 204
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 94bac6d790ed0c14ba4631823be8fa85
+    layerID: 203
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 756eff26f4251f844a7ee7b16ea5e59e
+    layerID: 202
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: b1f6c8a3dd4794b449730b33611a90fd
+    layerID: 201
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 077964f6669336943a79654d7c7ec997
+    layerID: 200
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 404df00f0be4e844d8a3b43143e042f4
+    layerID: 199
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 05bbad279927c064994974d2c7e8c3eb
+    layerID: 198
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 7aa2bb4622e5c424a91468a836977924
+    layerID: 197
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 79e2bd28ca9f1da4db3d6c5b86056b1e
+    layerID: 196
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: af9e425809575894a975be73f568ac7b
+    layerID: 195
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 4f98befcf2728674eb870e3583decb1c
+    layerID: 194
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 37770c795b5c7224fb66906c040b47ed
+    layerID: 193
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: bb17aa62ea7c16247949f97a0902203c
+    layerID: 192
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 61eb6aad71242ca41a051d7101e75da8
+    layerID: 191
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 32ddfee9938134a42a502ef2dcf33238
+    layerID: 190
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: d076b8b4efa8ee84daafa8fad551a46d
+    layerID: 189
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: bfd097453ce8c1a4c96407d56c1f7533
+    layerID: 188
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 9d216d70bdba11e44831f34f23c700d0
+    layerID: 187
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 5ba9085772a6e2346b7bb141d2255eac
+    layerID: 186
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: af459b41d83238e439c6a906b74bcc07
+    layerID: 185
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 5792f899f51ecb7458f4d13e118723eb
+    layerID: 176
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: df94c88ce568bee42980959eb9ea63bb
+    layerID: 175
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 25a15fb8e6bea8748900bc45ca8600dd
+    layerID: 174
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 9fb16767b441c584db350456fe08f690
+    layerID: 173
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 8f3b389310896d04dab0395bb13e6586
+    layerID: 172
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 936505dc59216134ab6202b8074051aa
+    layerID: 171
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 6a41a368268845547ad1dd9a9ac45af0
+    layerID: 170
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 42490af19e240864dafc70fc6b87f033
+    layerID: 169
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 1c902762c2837e24fad51d445145520e
+    layerID: 168
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 8981c9268bb6a474aa6695ba2de88496
+    layerID: 167
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 82048cc604eb8454fa670e0e9988f4e4
+    layerID: 166
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 379222d8781e0ac45951bc8a600967a3
+    layerID: 165
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 1c71081edd3996547aacce783dbb3cf4
+    layerID: 164
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 6e3cf2fc1c3fe9f4092ee5b69083e8a6
+    layerID: 163
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 23d693c83181e1a4da5e1acf9ef01201
+    layerID: 162
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: ec58459141d541e45a8d988d034ace3c
+    layerID: 161
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: c473f1e078da6174aa22033afeb39d08
+    layerID: 160
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 457a978b255c28048a3381fdc0ad69cc
+    layerID: 159
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 9c1ed879760b49348973fc46f1bc4432
+    layerID: 158
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: e48797da6ac06d141b51ce3b3d729129
+    layerID: 157
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 2fd7c9a3ea871024384a7640946eb07c
+    layerID: 156
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: bbc2080cdffc92a48a7bee64546416e3
+    layerID: 155
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: f0e8c98ad4bbc874b94d975c76d48d2f
+    layerID: 154
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 48ef1ebf019570349b4ca0dc5003d13f
+    layerID: 153
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: ab0be6d0d9c96714980fdc58d6a350ae
+    layerID: 152
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 52d05f05b966c09459bda5b35169b2af
+    layerID: 151
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 6754b08bbe5d76f4abb09bbbd91d8c3e
+    layerID: 150
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 6289b0b272234ba45b602866e3c96c97
+    layerID: 149
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: c74001fc1bdf3444da0994a082a8914a
+    layerID: 148
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: f530c1483e9b14845a6be4115b4219c0
+    layerID: 147
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 38d6488a8cb91304eb411530a47bc914
+    layerID: 146
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: f066d42a7805b054a9c084502971a573
+    layerID: 145
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 37519c8450cf8be4aba612b8e44d50df
+    layerID: 144
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: a45970563ad2ab9459a6f24e34e9a74e
+    layerID: 143
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 42e5b87a81999b14789b46c3af8088aa
+    layerID: 142
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 00ef83c0e5014c54f9546d2c10cccd98
+    layerID: 141
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 5f926bd67d959c0469a9386e30fbb83a
+    layerID: 140
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: c6a0a195da357e2449a4be893b819c59
+    layerID: 139
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 2617a264dc4f2824c9e6ccd15885af17
+    layerID: 138
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: b118cf649fcc79044b3c59e4baa74ad7
+    layerID: 137
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 3ae1f2bf350f3e34fb10844eb1494806
+    layerID: 136
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 931b9fdac97f3c1458c7492e38b60b3a
+    layerID: 135
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 31241b058988f88448f179aca4059d72
+    layerID: 134
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 017d2f73e8ab2634aa104b3fe1a879fd
+    layerID: 133
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 78790939407533f43acc1f4214147b7a
+    layerID: 132
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 3f395ecbe0ea96c40b24e24e409009e9
+    layerID: 131
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 86233069e33e8c143977004bdc3ce603
+    layerID: 130
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 6e3a8cfd72d571140a4652856d6852de
+    layerID: 129
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 5a3142dbded695848a382b2316af11f2
+    layerID: 128
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: c46fd9861690384488f08307917e8e74
+    layerID: 127
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 237626aed48883a48aeb502361bf02fd
+    layerID: 126
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: bcd91734fd80f774aaca26cd01e129e3
+    layerID: 125
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 3571a52ba9d9d3a4c9c021b9f9dd07c7
+    layerID: 124
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3 copia 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 2b0aa5b317ff75347a32bd0809e9b5ab
+    layerID: 123
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2 copia 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 723d6a0432955374a986d96863a8d932
+    layerID: 122
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1 copia 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 75c5300a5fe54c74e8f2dedf7d0e1316
+    layerID: 121
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 4896a6b55641dc742a293fb26847f5da
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 5338bb0fa4403e04f9e4d908d309fa6c
+    layerID: 42
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: f080b8f10237c584aaae4ca35573f9ed
+    layerID: 41
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 168
+    spriteID: 5f900cd4fd195f44a8bb62ce281b599f
+    layerID: 40
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cielo4 copia 8
+    spriteName: cielo4 copia 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1324d764d4462ec48b7cd3c00124c19e
+    layerID: 863
+    mosaicPosition: {x: 4, y: 396}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 0
+    spriteName: Capa 0
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 282355fe663932240ab4cc934951902e
+    layerID: 865
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

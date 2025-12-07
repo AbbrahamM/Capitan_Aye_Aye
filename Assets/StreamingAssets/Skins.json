@@ -1,0 +1,22 @@
+{
+  "SKINS": [
+    {
+      "Name": "Mono",
+      "Anim": "Monkey_Controller",
+      "Icon": "monkey cartel",
+      "Cost": "0"
+    },
+    {
+      "Name": "Mono Silver",
+      "Anim": "Silver Mono_Controller",
+      "Icon": "mokey silver cartel",
+      "Cost": "20"
+    },
+    {
+      "Name": "Tripulante Rojo",
+      "Anim": "Tripulante Rojo_Controller",
+      "Icon": "tripulante Storm cartel",
+      "Cost": "30"
+    }
+  ]
+}

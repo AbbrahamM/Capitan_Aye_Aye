@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852030c1a5d78564aa4f603b891d11e6, type: 3}
+  m_Name: Appear Double Middle Banana Tree 1
+  m_EditorClassIdentifier: 
+  prefabReference: {fileID: 5699310834265912275, guid: 7f3ac9c2ee6cccd4fb78898507b0bb69, type: 3}
+  appearFactor: 0.5
+  maxCount: 10
+  forceToAppear: 1
+  randomAppearShowFactor: 0.5
+  maxMin: {x: 0, y: 1}

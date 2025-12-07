@@ -1,0 +1,1319 @@
+fileFormatVersion: 2
+guid: 0e19967cecb184847a948307738f0374
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3485832679524491871
+    second: marco ejemplo_0
+  - first:
+      213: -3241710917825644784
+    second: marco ejemplo_1
+  - first:
+      213: -1623458974822787104
+    second: marco ejemplo_2
+  - first:
+      213: -1053115449102293181
+    second: marco ejemplo_3
+  - first:
+      213: 9158294587561884442
+    second: marco ejemplo_4
+  - first:
+      213: -8519773477541670410
+    second: marco ejemplo_5
+  - first:
+      213: 369467585112738275
+    second: marco ejemplo_6
+  - first:
+      213: 966593340079242702
+    second: marco ejemplo_7
+  - first:
+      213: 2051753942488788574
+    second: marco ejemplo_8
+  - first:
+      213: -9072468146381475050
+    second: marco ejemplo_9
+  - first:
+      213: -2251103294720061312
+    second: marco ejemplo_10
+  - first:
+      213: -7571870266656187442
+    second: marco ejemplo_11
+  - first:
+      213: -5619777729430154671
+    second: marco ejemplo_12
+  - first:
+      213: -2921281615449197509
+    second: marco ejemplo_13
+  - first:
+      213: 791111396926958313
+    second: marco ejemplo_14
+  - first:
+      213: 3676905097719657157
+    second: marco ejemplo_15
+  - first:
+      213: 3943851036923334301
+    second: marco ejemplo_16
+  - first:
+      213: -2075187400210468401
+    second: marco ejemplo_17
+  - first:
+      213: -8732318888425244424
+    second: marco ejemplo_18
+  - first:
+      213: 2598734891894266040
+    second: marco ejemplo_19
+  - first:
+      213: 8053747326304042613
+    second: marco ejemplo_20
+  - first:
+      213: 8187660583228854684
+    second: marco ejemplo_21
+  - first:
+      213: -4158846161807742108
+    second: marco ejemplo_22
+  - first:
+      213: 8232708069169274867
+    second: marco ejemplo_23
+  - first:
+      213: -1323422321373448012
+    second: marco ejemplo_24
+  - first:
+      213: -6164824790353295121
+    second: marco ejemplo_25
+  - first:
+      213: -7592126050564756834
+    second: marco ejemplo_26
+  - first:
+      213: -520153114685101637
+    second: marco ejemplo_27
+  - first:
+      213: -8744390268443359216
+    second: marco ejemplo_28
+  - first:
+      213: -6948810682190400763
+    second: marco ejemplo_29
+  - first:
+      213: -4072191846829857890
+    second: marco ejemplo_30
+  - first:
+      213: 2556029896852090329
+    second: marco ejemplo_31
+  - first:
+      213: 2720105512052522516
+    second: marco ejemplo_32
+  - first:
+      213: -6130759273837595800
+    second: marco ejemplo_33
+  - first:
+      213: 4403858062372543344
+    second: marco ejemplo_34
+  - first:
+      213: 7793761159777183368
+    second: marco ejemplo_35
+  - first:
+      213: 4433339694997933784
+    second: marco ejemplo_36
+  - first:
+      213: 8006274648747019805
+    second: marco ejemplo_37
+  - first:
+      213: -7428416502184606804
+    second: marco ejemplo_38
+  - first:
+      213: 847784363633357370
+    second: marco ejemplo_39
+  - first:
+      213: -7742321347339309283
+    second: marco ejemplo_40
+  - first:
+      213: 8221903641724747859
+    second: marco ejemplo_41
+  - first:
+      213: -4797263812697217659
+    second: marco ejemplo_42
+  - first:
+      213: 8449339010109581945
+    second: marco ejemplo_43
+  - first:
+      213: 5322039014804737233
+    second: marco ejemplo_44
+  - first:
+      213: 3019873973013577543
+    second: marco ejemplo_45
+  - first:
+      213: 2355606153870878843
+    second: marco ejemplo_46
+  - first:
+      213: 5577517439487230194
+    second: marco ejemplo_47
+  - first:
+      213: -2008520682832189438
+    second: marco ejemplo_48
+  - first:
+      213: 7335080820757791815
+    second: marco ejemplo_49
+  - first:
+      213: -1833412925256698502
+    second: marco ejemplo_50
+  - first:
+      213: 1781423734326506289
+    second: marco ejemplo_51
+  - first:
+      213: -7284263166279425551
+    second: marco ejemplo_52
+  - first:
+      213: -8415447573141521239
+    second: marco ejemplo_53
+  - first:
+      213: 4593373691685171900
+    second: marco ejemplo_54
+  - first:
+      213: 5350006254479995162
+    second: marco ejemplo_55
+  - first:
+      213: -353732973928352984
+    second: marco ejemplo_56
+  - first:
+      213: 6220933547893466400
+    second: marco ejemplo_57
+  - first:
+      213: -7966444989571974342
+    second: marco ejemplo_58
+  - first:
+      213: 7028436137214108534
+    second: marco ejemplo_59
+  - first:
+      213: 9218633969162373415
+    second: marco ejemplo_60
+  - first:
+      213: -421896241392157736
+    second: marco ejemplo_61
+  - first:
+      213: 2420745827860981010
+    second: marco ejemplo_62
+  - first:
+      213: 6251972575821017768
+    second: marco ejemplo_63
+  - first:
+      213: 4629837661393867093
+    second: marco ejemplo_64
+  - first:
+      213: -6497965498825392964
+    second: marco ejemplo_65
+  - first:
+      213: -3481400234247544841
+    second: marco ejemplo_66
+  - first:
+      213: 5582315998471901686
+    second: marco ejemplo_67
+  - first:
+      213: -2704526922264797908
+    second: marco ejemplo_68
+  - first:
+      213: 2745477356457709504
+    second: marco ejemplo_69
+  - first:
+      213: -2451439863496242959
+    second: marco ejemplo_70
+  - first:
+      213: -50431955300158322
+    second: marco ejemplo_71
+  - first:
+      213: 1632505958479347524
+    second: marco ejemplo_72
+  - first:
+      213: 8557596670082362696
+    second: marco ejemplo_73
+  - first:
+      213: -2891227258311409029
+    second: marco ejemplo_74
+  - first:
+      213: -2681650627450574218
+    second: marco ejemplo_75
+  - first:
+      213: 3454020811160384291
+    second: marco ejemplo_76
+  - first:
+      213: -7500592291138824648
+    second: marco ejemplo_77
+  - first:
+      213: 7441026988166392838
+    second: marco ejemplo_78
+  - first:
+      213: 2065899372859464444
+    second: marco ejemplo_79
+  - first:
+      213: 1801431251174242332
+    second: marco ejemplo_80
+  - first:
+      213: -2098392830373176643
+    second: marco ejemplo_81
+  - first:
+      213: -1035798055675900786
+    second: marco ejemplo_82
+  - first:
+      213: -3705674870072610097
+    second: marco ejemplo_83
+  - first:
+      213: -1573635512634589742
+    second: marco ejemplo_84
+  - first:
+      213: 6985337510632252854
+    second: marco ejemplo_85
+  - first:
+      213: -2543349843345715902
+    second: marco ejemplo_86
+  - first:
+      213: -5295070458179770166
+    second: marco ejemplo_87
+  - first:
+      213: -7050429145706373322
+    second: marco ejemplo_88
+  - first:
+      213: 3572761931968694559
+    second: marco ejemplo_89
+  - first:
+      213: -5478343345678382575
+    second: marco ejemplo_90
+  - first:
+      213: -4348670026083793705
+    second: marco ejemplo_91
+  - first:
+      213: -4419869833999442185
+    second: marco ejemplo_92
+  - first:
+      213: 6654802359930570210
+    second: marco ejemplo_93
+  - first:
+      213: -1810207918306878058
+    second: marco ejemplo_94
+  - first:
+      213: 7790263478508196867
+    second: marco ejemplo_95
+  - first:
+      213: -8201267733987450937
+    second: marco ejemplo_96
+  - first:
+      213: -7558823489717391616
+    second: marco ejemplo_97
+  - first:
+      213: 5222686578098543913
+    second: marco ejemplo_98
+  - first:
+      213: -1976763382854638865
+    second: marco ejemplo_99
+  - first:
+      213: -797291041502459120
+    second: marco ejemplo_100
+  - first:
+      213: -514040574703515854
+    second: marco ejemplo_101
+  - first:
+      213: -7009475399505149568
+    second: marco ejemplo_102
+  - first:
+      213: -3744661709174467004
+    second: marco ejemplo_103
+  - first:
+      213: 8013184158560603368
+    second: marco ejemplo_104
+  - first:
+      213: -8549854953171603154
+    second: marco ejemplo_105
+  - first:
+      213: -7334281770917433738
+    second: marco ejemplo_106
+  - first:
+      213: -3634326795652376289
+    second: marco ejemplo_107
+  - first:
+      213: -6006903622824277766
+    second: marco ejemplo_108
+  - first:
+      213: 3138839653564727506
+    second: marco ejemplo_109
+  - first:
+      213: 2658069206052317607
+    second: marco ejemplo_110
+  - first:
+      213: 4859374223204987960
+    second: marco ejemplo_111
+  - first:
+      213: 3182369803944967384
+    second: marco ejemplo_112
+  - first:
+      213: 6970923289810594739
+    second: marco ejemplo_113
+  - first:
+      213: -1651492036520884856
+    second: marco ejemplo_114
+  - first:
+      213: 6340549349542084318
+    second: marco ejemplo_115
+  - first:
+      213: -5799145502997160559
+    second: marco ejemplo_116
+  - first:
+      213: -8263895970479847410
+    second: marco ejemplo_117
+  - first:
+      213: 9190434758954390152
+    second: marco ejemplo_118
+  - first:
+      213: 5750420285141906853
+    second: marco ejemplo_119
+  - first:
+      213: -1972610484986087928
+    second: marco ejemplo_120
+  - first:
+      213: -6042598021358762591
+    second: marco ejemplo_121
+  - first:
+      213: -7444432826532952466
+    second: marco ejemplo_122
+  - first:
+      213: 8486564066371485960
+    second: marco ejemplo_123
+  - first:
+      213: -366209483963279419
+    second: marco ejemplo_124
+  - first:
+      213: 8184699574227715285
+    second: marco ejemplo_125
+  - first:
+      213: -3737477234626338347
+    second: marco ejemplo_126
+  - first:
+      213: 2253822246801414394
+    second: marco ejemplo_127
+  - first:
+      213: -1161418854959525430
+    second: marco ejemplo_128
+  - first:
+      213: 1152337997869875316
+    second: marco ejemplo_129
+  - first:
+      213: 307739108771334121
+    second: marco ejemplo_130
+  - first:
+      213: -5115017919348531909
+    second: marco ejemplo_131
+  - first:
+      213: -4777995671685982711
+    second: marco ejemplo_132
+  - first:
+      213: 7368325361310987594
+    second: marco ejemplo_133
+  - first:
+      213: -3098279388835576702
+    second: marco ejemplo_134
+  - first:
+      213: -1670395752944486514
+    second: marco ejemplo_135
+  - first:
+      213: 8939688890236649097
+    second: marco ejemplo_136
+  - first:
+      213: -3912818631602133924
+    second: marco ejemplo_137
+  - first:
+      213: 6200308305355003421
+    second: marco ejemplo_138
+  - first:
+      213: 5180660901728505601
+    second: marco ejemplo_139
+  - first:
+      213: -8190051413046300942
+    second: marco ejemplo_140
+  - first:
+      213: -2164904163248574568
+    second: marco ejemplo_141
+  - first:
+      213: 8226171501731623777
+    second: marco ejemplo_142
+  - first:
+      213: 6391485830505445866
+    second: marco ejemplo_143
+  - first:
+      213: 5471540291622291176
+    second: marco ejemplo_144
+  - first:
+      213: 5961734261116293107
+    second: marco ejemplo_145
+  - first:
+      213: 5884242888010971444
+    second: marco ejemplo_146
+  - first:
+      213: -3238510981475858714
+    second: marco ejemplo_147
+  - first:
+      213: 7744567292217490322
+    second: marco ejemplo_148
+  - first:
+      213: -2006662036848893224
+    second: marco ejemplo_149
+  - first:
+      213: -6743746688492890464
+    second: marco ejemplo_150
+  - first:
+      213: 7621531747503236795
+    second: marco ejemplo_151
+  - first:
+      213: 3343973831220945585
+    second: marco ejemplo_152
+  - first:
+      213: -6324728096500356973
+    second: marco ejemplo_153
+  - first:
+      213: -3105363310692783266
+    second: marco ejemplo_154
+  - first:
+      213: 1350897630877259756
+    second: marco ejemplo_155
+  - first:
+      213: -2880913410784725580
+    second: marco ejemplo_156
+  - first:
+      213: 3336662264661854274
+    second: marco ejemplo_157
+  - first:
+      213: -1358842787332206633
+    second: marco ejemplo_158
+  - first:
+      213: 4640169256750312851
+    second: marco ejemplo_159
+  - first:
+      213: 6048339694784952207
+    second: marco ejemplo_160
+  - first:
+      213: -9056320930295491181
+    second: marco ejemplo_161
+  - first:
+      213: -7501267392347210293
+    second: marco ejemplo_162
+  - first:
+      213: 5910734943962871718
+    second: marco ejemplo_163
+  - first:
+      213: -2331457612439202562
+    second: marco ejemplo_164
+  - first:
+      213: -8958359403490605780
+    second: marco ejemplo_165
+  - first:
+      213: 5510880403103851128
+    second: marco ejemplo_166
+  - first:
+      213: 1617154340563383078
+    second: marco ejemplo_167
+  - first:
+      213: -2504538164884251544
+    second: marco ejemplo_168
+  - first:
+      213: -8954432515427905967
+    second: marco ejemplo_169
+  - first:
+      213: 2616296967638148954
+    second: marco ejemplo_170
+  - first:
+      213: -8127409568009464718
+    second: marco ejemplo_171
+  - first:
+      213: 7596073097431344627
+    second: marco ejemplo_172
+  - first:
+      213: -5845626147843600287
+    second: marco ejemplo_173
+  - first:
+      213: -5440569039854600146
+    second: marco ejemplo_174
+  - first:
+      213: 4438310299541417302
+    second: marco ejemplo_175
+  - first:
+      213: 4129121522849529309
+    second: marco ejemplo_176
+  - first:
+      213: 2592164304976793101
+    second: marco ejemplo_177
+  - first:
+      213: -7434323002410051501
+    second: marco ejemplo_178
+  - first:
+      213: 9205388540128546025
+    second: marco ejemplo_179
+  - first:
+      213: 5257531365780719745
+    second: marco ejemplo_180
+  - first:
+      213: 3783085250880045345
+    second: marco ejemplo_181
+  - first:
+      213: 1080295339635692740
+    second: marco ejemplo_182
+  - first:
+      213: 2385263837178950916
+    second: marco ejemplo_183
+  - first:
+      213: -6682774807339437626
+    second: marco ejemplo_184
+  - first:
+      213: 1501083806763373941
+    second: marco ejemplo_185
+  - first:
+      213: 245334324793901147
+    second: marco ejemplo_186
+  - first:
+      213: 5286048018459149380
+    second: marco ejemplo_187
+  - first:
+      213: -6256498461796855802
+    second: marco ejemplo_188
+  - first:
+      213: -2251550946240256203
+    second: marco ejemplo_189
+  - first:
+      213: 160895486346104735
+    second: marco ejemplo_190
+  - first:
+      213: -5469105013810763528
+    second: marco ejemplo_191
+  - first:
+      213: -4904605357592159536
+    second: marco ejemplo_192
+  - first:
+      213: 5664883215846228272
+    second: marco ejemplo_193
+  - first:
+      213: 177943663189300657
+    second: marco ejemplo_194
+  - first:
+      213: -1305826645068425702
+    second: marco ejemplo_195
+  - first:
+      213: -4241332923539588641
+    second: marco ejemplo_196
+  - first:
+      213: 6546179867749272647
+    second: marco ejemplo_197
+  - first:
+      213: 562808229376383394
+    second: marco ejemplo_198
+  - first:
+      213: 7228678583391960922
+    second: marco ejemplo_199
+  - first:
+      213: -3649353334161450943
+    second: marco ejemplo_200
+  - first:
+      213: 6924852819612941315
+    second: marco ejemplo_201
+  - first:
+      213: 5567556461870782148
+    second: marco ejemplo_202
+  - first:
+      213: -145302365248988868
+    second: marco ejemplo_203
+  - first:
+      213: -7436749220662097044
+    second: marco ejemplo_204
+  - first:
+      213: 3925638390923193784
+    second: marco ejemplo_205
+  - first:
+      213: 7053287529447375789
+    second: marco ejemplo_206
+  - first:
+      213: 4330549226253174965
+    second: marco ejemplo_207
+  - first:
+      213: 8603933847050942631
+    second: marco ejemplo_208
+  - first:
+      213: -4682030275288801654
+    second: marco ejemplo_209
+  - first:
+      213: -8264754449325304767
+    second: marco ejemplo_210
+  - first:
+      213: 7795348731095826820
+    second: marco ejemplo_211
+  - first:
+      213: 4845357139505257878
+    second: marco ejemplo_212
+  - first:
+      213: 83963714091663962
+    second: marco ejemplo_213
+  - first:
+      213: 175235747967177747
+    second: marco ejemplo_214
+  - first:
+      213: 8790708890700777957
+    second: marco ejemplo_215
+  - first:
+      213: 3835094233341971569
+    second: marco ejemplo_216
+  - first:
+      213: -1269871274111649548
+    second: marco ejemplo_217
+  - first:
+      213: 2056976518272284760
+    second: marco ejemplo_218
+  - first:
+      213: 2360603865992918796
+    second: marco ejemplo_219
+  - first:
+      213: -1920271210291338206
+    second: marco ejemplo_220
+  - first:
+      213: 2242553897933699989
+    second: marco ejemplo_221
+  - first:
+      213: -8854842798946531048
+    second: marco ejemplo_222
+  - first:
+      213: -5154349143946048469
+    second: marco ejemplo_223
+  - first:
+      213: 4453365696478011675
+    second: marco ejemplo_224
+  - first:
+      213: -5514554140157038916
+    second: marco ejemplo_225
+  - first:
+      213: 7115828999249562046
+    second: marco ejemplo_226
+  - first:
+      213: -1321201327479783
+    second: marco ejemplo_227
+  - first:
+      213: -9053834171334635987
+    second: marco ejemplo_228
+  - first:
+      213: -2759682466036141888
+    second: marco ejemplo_229
+  - first:
+      213: 5791712871231966136
+    second: marco ejemplo_230
+  - first:
+      213: 2829173185649693429
+    second: marco ejemplo_231
+  - first:
+      213: 1740055851607660772
+    second: marco ejemplo_232
+  - first:
+      213: 3322951567702614466
+    second: marco ejemplo_233
+  - first:
+      213: 1300004027908059095
+    second: marco ejemplo_234
+  - first:
+      213: -5223663654827505462
+    second: marco ejemplo_235
+  - first:
+      213: 3342284315010297428
+    second: marco ejemplo_236
+  - first:
+      213: 3980713923944407825
+    second: marco ejemplo_237
+  - first:
+      213: -2157009527015752425
+    second: marco ejemplo_238
+  - first:
+      213: 4412580794919765247
+    second: marco ejemplo_239
+  - first:
+      213: -211953132161865673
+    second: marco ejemplo_240
+  - first:
+      213: -7417355877279486812
+    second: marco ejemplo_241
+  - first:
+      213: -34368001638719367
+    second: marco ejemplo_242
+  - first:
+      213: -7635076097228937869
+    second: marco ejemplo_243
+  - first:
+      213: 8008346416647867252
+    second: marco ejemplo_244
+  - first:
+      213: 5660665789355377926
+    second: marco ejemplo_245
+  - first:
+      213: 7379118169191041205
+    second: marco ejemplo_246
+  - first:
+      213: 7175147607045816599
+    second: marco ejemplo_247
+  - first:
+      213: 5982274843918162071
+    second: marco ejemplo_248
+  - first:
+      213: -8220126526211471054
+    second: marco ejemplo_249
+  - first:
+      213: 8152304221923232987
+    second: marco ejemplo_250
+  - first:
+      213: -5043256396293881511
+    second: marco ejemplo_251
+  - first:
+      213: -5520106314358850772
+    second: marco ejemplo_252
+  - first:
+      213: 4913095665086346397
+    second: marco ejemplo_253
+  - first:
+      213: -6724216597017400446
+    second: marco ejemplo_254
+  - first:
+      213: 8896335677600829426
+    second: marco ejemplo_255
+  - first:
+      213: 7677074992757851514
+    second: marco ejemplo_256
+  - first:
+      213: 3381377117249131823
+    second: marco ejemplo_257
+  - first:
+      213: 5176893607470854456
+    second: marco ejemplo_258
+  - first:
+      213: 62455376481338402
+    second: marco ejemplo_259
+  - first:
+      213: -8166364757779701067
+    second: marco ejemplo_260
+  - first:
+      213: -5632507322274442458
+    second: marco ejemplo_261
+  - first:
+      213: 7251280208789860143
+    second: marco ejemplo_262
+  - first:
+      213: 7411407671484741452
+    second: marco ejemplo_263
+  - first:
+      213: -4574601251602848705
+    second: marco ejemplo_264
+  - first:
+      213: 6470069018218098504
+    second: marco ejemplo_265
+  - first:
+      213: 7005009938898381440
+    second: marco ejemplo_266
+  - first:
+      213: 7991103054254894781
+    second: marco ejemplo_267
+  - first:
+      213: -2734530051519631956
+    second: marco ejemplo_268
+  - first:
+      213: 7227368450383857171
+    second: marco ejemplo_269
+  - first:
+      213: 6372075981654567652
+    second: marco ejemplo_270
+  - first:
+      213: -5582850466172983783
+    second: marco ejemplo_271
+  - first:
+      213: 1606809859630630751
+    second: marco ejemplo_272
+  - first:
+      213: 2913955716275299085
+    second: marco ejemplo_273
+  - first:
+      213: 1077853941985486995
+    second: marco ejemplo_274
+  - first:
+      213: -3977297137636206138
+    second: marco ejemplo_275
+  - first:
+      213: 8820584180245548436
+    second: marco ejemplo_276
+  - first:
+      213: 7907449187784843493
+    second: marco ejemplo_277
+  - first:
+      213: -7115634220099657945
+    second: marco ejemplo_278
+  - first:
+      213: 6523976987521385931
+    second: marco ejemplo_279
+  - first:
+      213: -5727432716631673185
+    second: marco ejemplo_280
+  - first:
+      213: -449975166738670383
+    second: marco ejemplo_281
+  - first:
+      213: 8835856063886313668
+    second: marco ejemplo_282
+  - first:
+      213: 6328432562329039909
+    second: marco ejemplo_283
+  - first:
+      213: -4647305489521843239
+    second: marco ejemplo_284
+  - first:
+      213: 1138145973721652402
+    second: marco ejemplo_285
+  - first:
+      213: -4556863906944057050
+    second: marco ejemplo_286
+  - first:
+      213: 4930691426190633397
+    second: marco ejemplo_287
+  - first:
+      213: -7955592397144491925
+    second: marco ejemplo_288
+  - first:
+      213: -5757034702647718839
+    second: marco ejemplo_289
+  - first:
+      213: -84733991382362580
+    second: marco ejemplo_290
+  - first:
+      213: -7603202770010022274
+    second: marco ejemplo_291
+  - first:
+      213: 4722692974562121019
+    second: marco ejemplo_292
+  - first:
+      213: -3014244552889820264
+    second: marco ejemplo_293
+  - first:
+      213: 7705148906266710483
+    second: marco ejemplo_294
+  - first:
+      213: -8774603142024457329
+    second: marco ejemplo_295
+  - first:
+      213: 4665071531303433685
+    second: marco ejemplo_296
+  - first:
+      213: -2775576538074885002
+    second: marco ejemplo_297
+  - first:
+      213: -6812026695020227663
+    second: marco ejemplo_298
+  - first:
+      213: 3519342634515445
+    second: marco ejemplo_299
+  - first:
+      213: -6398887153308653956
+    second: marco ejemplo_300
+  - first:
+      213: 7564619655136483954
+    second: marco ejemplo_301
+  - first:
+      213: 6647767752081535263
+    second: marco ejemplo_302
+  - first:
+      213: 665430681101930381
+    second: marco ejemplo_303
+  - first:
+      213: 4672552916960195034
+    second: marco ejemplo_304
+  - first:
+      213: -8568499957099630995
+    second: marco ejemplo_305
+  - first:
+      213: 4662740400510050422
+    second: marco ejemplo_306
+  - first:
+      213: -4791462958220644380
+    second: marco ejemplo_307
+  - first:
+      213: 1298667269609491200
+    second: marco ejemplo_308
+  - first:
+      213: 449421169656963456
+    second: marco ejemplo_309
+  - first:
+      213: 6420263649493137995
+    second: marco ejemplo_310
+  - first:
+      213: 1714974557822675621
+    second: marco ejemplo_311
+  - first:
+      213: 8949110850027978874
+    second: marco ejemplo_312
+  - first:
+      213: -4606969823603151470
+    second: marco ejemplo_313
+  - first:
+      213: -1710386602941745394
+    second: marco ejemplo_314
+  - first:
+      213: -3337495282853901333
+    second: marco ejemplo_315
+  - first:
+      213: -5247834343900154561
+    second: marco ejemplo_316
+  - first:
+      213: -2372305030360464041
+    second: marco ejemplo_317
+  - first:
+      213: 31184564988667441
+    second: marco ejemplo_318
+  - first:
+      213: -9042064007575408253
+    second: marco ejemplo_319
+  - first:
+      213: -6866907068016741134
+    second: marco ejemplo_320
+  - first:
+      213: -6448694998021356982
+    second: marco ejemplo_321
+  - first:
+      213: 4785128211263802358
+    second: marco ejemplo_322
+  - first:
+      213: 8424624162687138096
+    second: marco ejemplo_323
+  - first:
+      213: 3104915138004202787
+    second: marco ejemplo_324
+  - first:
+      213: 2392132134305404021
+    second: marco ejemplo_325
+  - first:
+      213: -1675118842469173106
+    second: marco ejemplo_326
+  - first:
+      213: 2854743257630069410
+    second: marco ejemplo_327
+  - first:
+      213: -8598910112111659565
+    second: marco ejemplo_328
+  - first:
+      213: -3559781543719845048
+    second: marco ejemplo_329
+  - first:
+      213: -9079677682222717762
+    second: marco ejemplo_330
+  - first:
+      213: -7668496319171695769
+    second: marco ejemplo_331
+  - first:
+      213: 7920919611593876977
+    second: marco ejemplo_332
+  - first:
+      213: 8691228278458302536
+    second: marco ejemplo_333
+  - first:
+      213: 6561143713613011221
+    second: marco ejemplo_334
+  - first:
+      213: -6985127535159358500
+    second: marco ejemplo_335
+  - first:
+      213: 7506982765466587704
+    second: marco ejemplo_336
+  - first:
+      213: 5687861844739792672
+    second: marco ejemplo_337
+  - first:
+      213: -1878615134741251952
+    second: marco ejemplo_338
+  - first:
+      213: -5457064555379120443
+    second: marco ejemplo_339
+  - first:
+      213: 5495370058833400391
+    second: marco ejemplo_340
+  - first:
+      213: -3311324517879109274
+    second: marco ejemplo_341
+  - first:
+      213: -3509830776166569843
+    second: marco ejemplo_342
+  - first:
+      213: 8835018930060869002
+    second: marco ejemplo_343
+  - first:
+      213: 8244660345646210155
+    second: marco ejemplo_344
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marco ejemplo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1679
+        width: 1619
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5261817a5a206030800000000000000
+      internalID: 3485832679524491871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco ejemplo_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 1619
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0173f7678112303d0800000000000000
+      internalID: -3241710917825644784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco ejemplo_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 1619
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e79442f9a05879e0800000000000000
+      internalID: -1623458974822787104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco ejemplo_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 1619
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34728c424159261f0800000000000000
+      internalID: -1053115449102293181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco ejemplo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 1619
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b3208976cc81f70800000000000000
+      internalID: 9158294587561884442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 857f52b7e604c3e42a2779a6c66dd7c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      marco ejemplo_0: 3485832679524491871
+      marco ejemplo_1: -3241710917825644784
+      marco ejemplo_2: -1623458974822787104
+      marco ejemplo_3: -1053115449102293181
+      marco ejemplo_4: 9158294587561884442
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

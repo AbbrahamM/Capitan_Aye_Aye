@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 2ee0bd73ad08cfb4ba66101c629adc6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2449550788325884391
+    second: ejemplo 2_0
+  - first:
+      213: 592994483270631831
+    second: ejemplo 2_1
+  - first:
+      213: 2021196839372452007
+    second: ejemplo 2_2
+  - first:
+      213: -7452912689598808600
+    second: ejemplo 2_3
+  - first:
+      213: 1319263420636406987
+    second: ejemplo 2_4
+  - first:
+      213: 457363324972309272
+    second: ejemplo 2_5
+  - first:
+      213: -7464776893504742571
+    second: ejemplo 2_6
+  - first:
+      213: 2412808721692144251
+    second: ejemplo 2_7
+  - first:
+      213: -959887048546630819
+    second: ejemplo 2_8
+  - first:
+      213: 7766555214715857095
+    second: ejemplo 2_9
+  - first:
+      213: -5640335591426588754
+    second: ejemplo 2_10
+  - first:
+      213: 5221310115057682743
+    second: ejemplo 2_11
+  - first:
+      213: -6505869103762610467
+    second: ejemplo 2_12
+  - first:
+      213: -4138790151051514492
+    second: ejemplo 2_13
+  - first:
+      213: -8270825400121722731
+    second: ejemplo 2_14
+  - first:
+      213: 816329208316759444
+    second: ejemplo 2_15
+  - first:
+      213: -8888054452256650564
+    second: ejemplo 2_16
+  - first:
+      213: -1410673886877994167
+    second: ejemplo 2_17
+  - first:
+      213: 4794011218641495097
+    second: ejemplo 2_18
+  - first:
+      213: -7682718458244503984
+    second: ejemplo 2_19
+  - first:
+      213: 4215036249071474738
+    second: ejemplo 2_20
+  - first:
+      213: -6040319467111052604
+    second: ejemplo 2_21
+  - first:
+      213: 2186709866020794925
+    second: ejemplo 2_22
+  - first:
+      213: 5074601075290549049
+    second: ejemplo 2_23
+  - first:
+      213: -4392025134397573189
+    second: ejemplo 2_24
+  - first:
+      213: 7222662052777078078
+    second: ejemplo 2_25
+  - first:
+      213: -4894768721387622804
+    second: ejemplo 2_26
+  - first:
+      213: -1395700517219239860
+    second: ejemplo 2_27
+  - first:
+      213: -6843753980775981136
+    second: ejemplo 2_28
+  - first:
+      213: -6368705248749390968
+    second: ejemplo 2_29
+  - first:
+      213: -1389316984859320243
+    second: ejemplo 2_30
+  - first:
+      213: 92995467038437495
+    second: ejemplo 2_31
+  - first:
+      213: -3422030830352725639
+    second: ejemplo 2_32
+  - first:
+      213: -2281940173244329722
+    second: ejemplo 2_33
+  - first:
+      213: -6112005140684340016
+    second: ejemplo 2_34
+  - first:
+      213: -4225783849457879732
+    second: ejemplo 2_35
+  - first:
+      213: -4002467580486348303
+    second: ejemplo 2_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ejemplo 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1328
+        width: 269
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ebe8a4982710ed0800000000000000
+      internalID: -2449550788325884391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1317
+        width: 271
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791cc19375dba3800800000000000000
+      internalID: 592994483270631831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1318
+        width: 177
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0ffef01dbbc0c10800000000000000
+      internalID: 2021196839372452007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_3
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1320
+        width: 87
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3672656fe19890800000000000000
+      internalID: -7452912689598808600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_4
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1317
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc423306717fe4210800000000000000
+      internalID: 1319263420636406987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1317
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b14465581e85600800000000000000
+      internalID: 457363324972309272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_6
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1317
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b1b1727f8c76890800000000000000
+      internalID: -7464776893504742571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_7
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1289
+        width: 673
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72bc6fafb40c7120800000000000000
+      internalID: 2412808721692144251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1001
+        width: 269
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5341e6a0dbcda2f0800000000000000
+      internalID: -959887048546630819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 991
+        width: 271
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a89d91d858cb60800000000000000
+      internalID: 7766555214715857095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1003
+        width: 177
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7603d9a089b1b0800000000000000
+      internalID: -5640335591426588754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_11
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1005
+        width: 66
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739ca2ec2e1d57840800000000000000
+      internalID: 5221310115057682743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_12
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1002
+        width: 91
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd66a0b058286b5a0800000000000000
+      internalID: -6505869103762610467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_13
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1002
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d60be29401096c0800000000000000
+      internalID: -4138790151051514492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_14
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1002
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598777a8e10283d80800000000000000
+      internalID: -8270825400121722731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_15
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 959
+        width: 673
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d0f71071f245b00800000000000000
+      internalID: 816329208316759444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 269
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbac9ec019947a480800000000000000
+      internalID: -8888054452256650564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 665
+        width: 271
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943b7bee2974c6ce0800000000000000
+      internalID: -1410673886877994167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 688
+        width: 177
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342d58bdcfb78240800000000000000
+      internalID: 4794011218641495097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_19
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 687
+        width: 91
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056effa5440816590800000000000000
+      internalID: -7682718458244503984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_20
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 687
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238dc45e221de7a30800000000000000
+      internalID: 4215036249071474738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 687
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca08f892797c2ca0800000000000000
+      internalID: -6040319467111052604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_22
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 607
+        width: 673
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22f2079901c85e10800000000000000
+      internalID: 2186709866020794925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 269
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b2285aaca9c6640800000000000000
+      internalID: 5074601075290549049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 338
+        width: 271
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb735a309646c03c0800000000000000
+      internalID: -4392025134397573189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_25
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 374
+        width: 177
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3da874aedc0c3460800000000000000
+      internalID: 7222662052777078078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_26
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 373
+        width: 91
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e6fff08c9421cb0800000000000000
+      internalID: -4894768721387622804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_27
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 373
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48715a36c971ace0800000000000000
+      internalID: -1395700517219239860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_28
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 373
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf9ea5a30a1601a0800000000000000
+      internalID: -6843753980775981136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_29
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 314
+        width: 671
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8837021b150dd97a0800000000000000
+      internalID: -6368705248749390968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 269
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d402b0d209728bce0800000000000000
+      internalID: -1389316984859320243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_31
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 12
+        width: 271
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7703c8272e26a4100800000000000000
+      internalID: 92995467038437495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_32
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 59
+        width: 177
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979046a27118280d0800000000000000
+      internalID: -3422030830352725639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_33
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 58
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601141fa08be450e0800000000000000
+      internalID: -2281940173244329722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_34
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 58
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4062415bbcd2ba0800000000000000
+      internalID: -6112005140684340016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_35
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 58
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45fa736afffa55c0800000000000000
+      internalID: -4225783849457879732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ejemplo 2_36
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 18
+        width: 673
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1181801f06478c0800000000000000
+      internalID: -4002467580486348303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ejemplo 2_0: -2449550788325884391
+      ejemplo 2_1: 592994483270631831
+      ejemplo 2_10: -5640335591426588754
+      ejemplo 2_11: 5221310115057682743
+      ejemplo 2_12: -6505869103762610467
+      ejemplo 2_13: -4138790151051514492
+      ejemplo 2_14: -8270825400121722731
+      ejemplo 2_15: 816329208316759444
+      ejemplo 2_16: -8888054452256650564
+      ejemplo 2_17: -1410673886877994167
+      ejemplo 2_18: 4794011218641495097
+      ejemplo 2_19: -7682718458244503984
+      ejemplo 2_2: 2021196839372452007
+      ejemplo 2_20: 4215036249071474738
+      ejemplo 2_21: -6040319467111052604
+      ejemplo 2_22: 2186709866020794925
+      ejemplo 2_23: 5074601075290549049
+      ejemplo 2_24: -4392025134397573189
+      ejemplo 2_25: 7222662052777078078
+      ejemplo 2_26: -4894768721387622804
+      ejemplo 2_27: -1395700517219239860
+      ejemplo 2_28: -6843753980775981136
+      ejemplo 2_29: -6368705248749390968
+      ejemplo 2_3: -7452912689598808600
+      ejemplo 2_30: -1389316984859320243
+      ejemplo 2_31: 92995467038437495
+      ejemplo 2_32: -3422030830352725639
+      ejemplo 2_33: -2281940173244329722
+      ejemplo 2_34: -6112005140684340016
+      ejemplo 2_35: -4225783849457879732
+      ejemplo 2_36: -4002467580486348303
+      ejemplo 2_4: 1319263420636406987
+      ejemplo 2_5: 457363324972309272
+      ejemplo 2_6: -7464776893504742571
+      ejemplo 2_7: 2412808721692144251
+      ejemplo 2_8: -959887048546630819
+      ejemplo 2_9: 7766555214715857095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

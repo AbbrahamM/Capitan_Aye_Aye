@@ -1,0 +1,108 @@
+{
+  "distance_rewards": [
+    {
+      "distance": 20,
+      "reward": "+50 Bananas",
+      "description": "Recorre 20 metros y obten 5 Bananas"
+    },
+    {
+      "distance": 40,
+      "reward": "+10 Bananas",
+      "description": "Recorre 40 metros y obten 10 Bananas"
+    },
+    {
+      "distance": 80,
+      "reward": "+15 Bananas",
+      "description": "Recorre 80 metros y obten 15 Bananas"
+    },
+    {
+      "distance": 100,
+      "reward": "+1 Vida extra",
+      "description": "Recorre 100 metros y obten 1 vida extra"
+    },
+    {
+      "distance": 160,
+      "reward": "+20 Bananas",
+      "description": "Recorre 160 metros y obten 20 Bananas"
+    },
+    {
+      "distance": 300,
+      "reward": "Imán (15 segundos)",
+      "description": "Recorre 300 metros y obten Imán durante 15 segundos"
+    },
+    {
+      "distance": 320,
+      "reward": "+30 Bananas",
+      "description": "Recorre 320 metros y obten 30 Bananas"
+    },
+    {
+      "distance": 450,
+      "reward": "+100 Bananas",
+      "description": "Recorre 450 metros y obten 100 Bananas"
+    },
+    {
+      "distance": 650,
+      "reward": "Planear (20 segundos)",
+      "description": "Recorre 650 metros y obten la habilidad de planear durante 20 segundos"
+    },
+    {
+      "distance": 850,
+      "reward": "Doble salto activado por 30 segundos",
+      "description": "Recorre 850 metros y activa el doble salto durante 30 segundos"
+    },
+    {
+      "distance": 1050,
+      "reward": "+200 Bananas + Imán (20 segundos)",
+      "description": "Recorre 1050 metros y obten 200 Bananas y un Imán durante 20 segundos"
+    }
+  ],
+  "banana_collection_rewards": [
+    {
+      "bananas": 50,
+      "reward": "5 segundos de invulnerabilidad",
+      "description": "Recolecta 50 Bananas y obten 5 segundos de invulnerabilidad"
+    },
+    {
+      "bananas": 100,
+      "reward": "+1 Vida extra",
+      "description": "Recolecta 100 Bananas y obten 1 vida extra"
+    },
+    {
+      "bananas": 150,
+      "reward": "Cofre misterioso (poder aleatorio)",
+      "description": "Recolecta 150 Bananas y obten un cofre misterioso con un poder aleatorio"
+    },
+    {
+      "bananas": 200,
+      "reward": "Skin exclusiva temporal",
+      "description": "Recolecta 200 Bananas y desbloquea una skin exclusiva temporal"
+    },
+    {
+      "bananas": 250,
+      "reward": "Multiplicador x2 por 30 segundos",
+      "description": "Recolecta 250 Bananas y activa un multiplicador x2 durante 30 segundos"
+    },
+    {
+      "bananas": 350,
+      "reward": "+1 Vida extra",
+      "description": "Recolecta 350 Bananas y obten 1 vida extra"
+    },
+    {
+      "bananas": 450,
+      "reward": "Planear (20 segundos)",
+      "description": "Recolecta 450 Bananas y obten la habilidad de planear durante 20 segundos"
+    },
+    {
+      "bananas": 750,
+      "reward": "Imán (30 segundos)",
+      "description": "Recolecta 750 Bananas y obten un Imán durante 30 segundos"
+    },
+    {
+      "bananas": 1025,
+      "reward": "+300 Bananas + Doble salto (30 segundos)",
+      "description": "Recolecta 1025 Bananas y obten 300 Bananas y doble salto durante 30 segundos"
+    }
+  ]
+}
+
+

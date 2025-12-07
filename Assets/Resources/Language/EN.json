@@ -1,0 +1,45 @@
+{
+  "Inicio": "Touch To Start",
+  "Distancia": "Distance",
+  "Metros": "Meters",
+  "Comprar": "Buy",
+  "SinFondos": "Not enough",
+  "Usar": "Wear",
+  "EnUso": "Wearing",
+  "Sonido": "Sound",
+  "Bananas": "Bananas",
+  "Menu": [
+    "Daily Quests",
+    "Power Ups",
+    "Preparation",
+    "Settings"
+  ],
+  "ObjetivosDiarios": [
+    "Go Over: {0} Meters",
+    "Collect: {0} Banans"
+  ],
+  "PowerUpsDecripcion": [
+    "DOUBLE JUMP UPGRADE\n<color=\"black\">ALLOWS YOU TO PERFORM A DOUBLE JUMP </color>",
+    "BY X2\n<color=\"black\">MULTIPLY YOUR SCORE AND DISTANCE WHILE IN USE</color>",
+    "GLIDE\n<color=\"black\">A JUMP OPTION THAT ALLOWS YOU TO GLIDE OVER THE MAP</color>",
+    "MAGNET\n<color=\"black\">AUTOMATICALLY ATTRACTS OBJECTS</color>",
+    "IMMUNE\n<color=\"black\">BECOME IMMUNE FOR A FEW SECONDS </color>",
+    "DASH\n<color=\"black\">YOU MOVE QUICKLY FOR A SHORT TIME</color> <color=\"blue\">\n(cooldown)</color>"
+  ],
+  "Idiomas": [
+    "English",
+    "Spanish"
+  ],
+  "Videos": [
+    "Watch a video to continue playing",
+    "Watch a video to earn {0} Bananas"
+  ],
+  "Preparacion": [
+    "Characters",
+    "Maps"
+  ],
+  "Misiones": [
+    "Daily Quests",
+    "Quests"
+  ]
+}

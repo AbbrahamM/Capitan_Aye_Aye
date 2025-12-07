@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 056f1c7a48d825a4d8300bd9aeba3aa9, type: 3}
+  m_Name: Specual Chest Daily Quests
+  m_EditorClassIdentifier: 
+  specialChest:
+  - factorToAppear: 1
+    toExecute:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: bed3897e58dc4b145bf860d5662b50a0, type: 2}
+          m_TargetAssemblyTypeName: GMDynamicRewards, Manager.System
+          m_MethodName: ResetDashTime
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  - factorToAppear: 1
+    toExecute:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: bed3897e58dc4b145bf860d5662b50a0, type: 2}
+          m_TargetAssemblyTypeName: GMDynamicRewards, Manager.System
+          m_MethodName: UnlockPowerUp
+          m_Mode: 5
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: Inmune
+            m_BoolArgument: 0
+          m_CallState: 2
+  - factorToAppear: 1
+    toExecute:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: bed3897e58dc4b145bf860d5662b50a0, type: 2}
+          m_TargetAssemblyTypeName: GMDynamicRewards, Manager.System
+          m_MethodName: UnlockPowerUp
+          m_Mode: 5
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: SpeedBy2
+            m_BoolArgument: 0
+          m_CallState: 2
